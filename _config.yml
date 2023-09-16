@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Prakhar Misra"
   avatar           : "profile-HeadshotLarge.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Faculty member at <br><a style='color: black;' href='https://civil.iitr.ac.in/CE?Uid=prakhar.misra'>Civil Engineering ,</a> <a style='color: black;' href='https://www.iitr.ac.in/'> IIT Roorkee,</a><br> Research Interests <br> Remote Sensing,<br> Human-Environment Impacts"
   location         : "Roorkee, India"
   employer         : " Indian Institute of Technology Roorkee"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
