@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "mprakhar01"
 facebook:
   username               :
   app_id                 :
@@ -75,46 +75,46 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : G-VL85WJ1XL6
 
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Prakhar Misra"
+  avatar           : "profile-HeadshotLarge.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  location         : "Roorkee, India"
+  employer         : " Indian Institute of Technology Roorkee"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=ESzGQk0AAAAJ&hl"
+  email            : "prakhar.misra[at]ce.iitr.ac.in"
+  researchgate     :  "https://www.researchgate.net/profile/Prakhar-Misra"
+  #uri              : 
+  #bitbucket        :
+  #codepen          :
+  #dribbble         :
+  #flickr           :
+  #facebook         :
+  #foursquare       :
+  github           : "mprakhar"
+  #google_plus      :
+  #keybase          :
+  instagram        : "https://www.instagram.com/misraprakhar/"
+  #impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  #lastfm           :
+  linkedin         : "https://www.linkedin.com/in/misraprakhar/"
+  orcid            : "http://orcid.org/0000-0003-0180-4900"
+  #pinterest        :
+  #soundcloud       :
+  #stackoverflow    : # http://stackoverflow.com/users/123456/username
+  #steam            :
+  #tumblr           :
+  twitter          : "@mprakhar01"
+  #vine             :
+  #weibo            :
+  #xing             :
+  #youtube          :
+  #wikipedia        :
 
 
 # Reading Files
