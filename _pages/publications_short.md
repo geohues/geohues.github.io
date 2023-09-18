@@ -6,8 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+<!---
 Detailed list of publications available over [here](/publications/)
+-->
 
 <!---
   <ol>{% for post in site.publications %}
@@ -50,27 +51,27 @@ Detailed list of publications available over [here](/publications/)
 24. Chavhan R., **Misra P.**, Morishita Y., Arya A., 'Detecting Precursor Onset Of Acceleration Based On Temporal Saliency And Non-parametric Spatial Clustering Of IPTA Displacements', **International Geoscience and Remote Sensing Symposium**, Pasadena, USA, 17/7/2023
 23. Kambhampati P., **Misra P.**, Chavhan R., Arya A, 'Low Latency Forest Logging Monitoring Using Differ-modality Learning Approach', **International Geoscience and Remote Sensing Symposium**, Pasadena, USA, 17/7/2023
 22. Yokota Y., Date K., Mei C., Amanda, Hun Y.C., Kambhampati P., **Misra P.**, ' Application of Satellite Sensing Data to Ground Deformation Monitoring', **11 International Symposium On Field Monitoring In Geomechanics**, London, UK, 09/04/2022
-21. Arya A., Pamungkas B., Chavan R.,**Misra P.**, ' Advanced alerting mechanism for slope and ground instability based on spatio-temporal analysis of anomalous land displacement behavior from time-series InSAR.', ** International Symposium of Remote Sensing**,  online,  Japan, 18/5/2022
-20. **Misra P.**, Takigawa M., Khatri P., Dhaka S.K., Dimri A.P., Yamaji K., Kajino M., Takeuchi W., Imasu R., Patra P.K., Hayashida S., ' COVID-19 lockdown impacts on NOx emission: top-down estimation over North India.', ** 29th Institute of Industrial Science Forum Proceedings**,  Tokyo,  Japan, 03/12/2021
-19. **Misra P.**, Takeuchi W., ' How well does KBDI compare with soil moisture for agriculture?: A cal/val study in Thailand.', ** 29th Institute of Industrial Science Forum Proceedings**,  Tokyo,  Japan, 03/12/2021
-18. **Misra P.**, Takigawa M., Khatri P., Dhaka S.K., Dimri A.P., Yamaji K., Kajino M., Takeuchi W., Imasu R., Patra P.K., Hayashida S., '  Detection of significant change in nitrogen oxides concentration and emission during COVID-19 lockdown in North India.', ** 2020 AGU Fall Meeting**,  San Francisco,  USA, 12/07/2020
-17. Hayashida S.,**Misra P.**, Nitta K., Nguyen T.H., Patra P.K., Takigawa M., Khatri P., Dhaka S.K., Dimri A.P., Yamaji K., Takeuchi W., '  Reduction of air pollutants over North-West India observed from space during the Covid-19 lockdown period.', ** 2020 AGU Fall Meeting**,  San Francisco,  USA, 12/07/2020
-16. Nguyen T.H., Hayashida S., **Misra P.**, Matsumi Y., Nakayama T., Dhaka S.K., Dimri A.P., '  Detection of Change in the Aerosol distribution over North-West India during the Covid-19 Lockdown period.', ** 2020 AGU Fall Meeting**,  San Francisco,  USA, 12/07/2020
-15. **Misra P.**, Takeuchi W., Imasu R., '  Brick Kiln Detection in North India with Sentinel imagery using Deep Learning of Small Datasets.', ** 40 Asian Conference of Remote Sensing**,  Daejeon,  South Korea, 16/10/2019
-14. **Misra P.**, Takeuchi W., '   Assessing population sensitivity to urban air pollution using Google Trends and remote sensing datasets.', ** Pecora21/ISRSE38**,  Baltimore,  USA, 10/07/2019
-13. Sovisoth E., Thakur V.B., Nagai K.,**Misra P.**, Takeuchi W., '  Estimation of the bridge construction year in Cambodia by the analysis of LANDSAT satellite data.', ** 3 ACF Symposium**,  Sapporo,  Japan, 11/10/2019
-12. **Misra P.**, Takeuchi W., ' Use of Google Trends for Assessing Sensitivity of Population to Urban Air Pollution.', ** 26 International Symposium on Remote Sensing**,  Taipei,  Taiwan, 18/4/2019
-11. Arbain A., Imasu R.,**Misra P.**, Takeuchi W., '  Estimating PM$_{2.5}$ Emission from Brick Kiln Industry over Northern India with Numerical Model and Remote Sensing Observation.', ** EGU General Assembly**,  Vienna,  Austria, 04/11/2019
-10. **Misra P.**, Takeuchi W., '  Analyzing perception of urban air pollution using Google Trends and satellite datasets.', ** 27th Institute of Industrial Science Forum Proceedings**,  Tokyo,  Japan, 03/07/2019
-9. **Misra P.**, Takeuchi W., ' A Novel Technique for Estimating Expansion of Residential, Commercial and Industrial Regions in Indian Megacities.', ** 17 International Symposium on Urban Safety Of Mega Cities In Asia**,  Hyderabad,  India, 12/12/2018
-8. \textbf{Best Paper Award Finalist}**Misra P.**, Imasu R., Takeuchi W., ' Land-use Change Impacts on Urban Air Quality in India using Hierarchical Bayesian Approach.', ** 39 Asian Conference of Remote Sensing**,  Kuala Lumpur,  Malaysia, 16/10/2018
-7. Ochi S.,**Misra P.**, Takeuchi W., ' Spatiotemporal Distribution Of Hotspot / Wildfire In Southeast Asia Using Remote Sensing Data.', ** 39 Asian Conference of Remote Sensing**,  Kuala Lumpur,  Malaysia, 18/10/2018
-6. \textbf{Best Paper Award}**Misra P.**, Takeuchi W., ' Hierarchical Bayesian approach to estimate land-use change impacts on urban air pollution in India.', ** 26 Institute of Industrial Science Forum Proceedings**,  Tokyo,  Japan, 03/06/2018
-5. **Misra P.**, Takeuchi W., ' Digital Surface Model (DSM) datasets for built-height estimation over Indian cities.', ** 24 International Symposium on Remote Sensing**,  Nagoya,  Japan, 18/5/2017
-4. **Misra P.**, Takeuchi W., ' Comparison of ASTER and AW3D derived Digital Surface Model datasets for built structure height estimation over Yangon city, Myanmar.', ** 25 Institute of Industrial Science Forum Proceedings**,  Tokyo,  Japan, 03/02/2017
-3. **Misra P.**, Takeuchi W., ' Assessing Impact of Economic Activities on Urban Air Quality in India by Nightlight and Atmospheric Measurement Datasets.', ** 37 Asian Conference of Remote Sensing**,  Colombo,  Sri Lanka, 18/10/2016
-2. **Misra P.**, Takeuchi W., ' Air Quality Analysis Using Nighttime Light for Indian Urban Regions.', ** 8 IGRSM International Conference and Exhibition on Geospatial \& Remote Sensing **,  Kuala Lumpur,  Malaysia, 13/4/2016
-1. **Misra P.**, Takeuchi W., ' Analysis Of Air Quality In Indian Cities Using Remote Sensing And Economic Growth Parameters.', ** 36 Asian Conference on Remote Sensing**,  Manila,  Philippines, 22/10/2015
+21. Arya A., Pamungkas B., Chavan R.,**Misra P.**, ' Advanced alerting mechanism for slope and ground instability based on spatio-temporal analysis of anomalous land displacement behavior from time-series InSAR.', **International Symposium of Remote Sensing**,  online,  Japan, 18/5/2022
+20. **Misra P.**, Takigawa M., Khatri P., Dhaka S.K., Dimri A.P., Yamaji K., Kajino M., Takeuchi W., Imasu R., Patra P.K., Hayashida S., ' COVID-19 lockdown impacts on NOx emission: top-down estimation over North India.', **29th Institute of Industrial Science Forum Proceedings**,  Tokyo,  Japan, 03/12/2021
+19. **Misra P.**, Takeuchi W., ' How well does KBDI compare with soil moisture for agriculture?: A cal/val study in Thailand.', **29th Institute of Industrial Science Forum Proceedings**,  Tokyo,  Japan, 03/12/2021
+18. **Misra P.**, Takigawa M., Khatri P., Dhaka S.K., Dimri A.P., Yamaji K., Kajino M., Takeuchi W., Imasu R., Patra P.K., Hayashida S., '  Detection of significant change in nitrogen oxides concentration and emission during COVID-19 lockdown in North India.', **2020 AGU Fall Meeting**,  San Francisco,  USA, 12/07/2020
+17. Hayashida S.,**Misra P.**, Nitta K., Nguyen T.H., Patra P.K., Takigawa M., Khatri P., Dhaka S.K., Dimri A.P., Yamaji K., Takeuchi W., '  Reduction of air pollutants over North-West India observed from space during the Covid-19 lockdown period.', **2020 AGU Fall Meeting**,  San Francisco,  USA, 12/07/2020
+16. Nguyen T.H., Hayashida S., **Misra P.**, Matsumi Y., Nakayama T., Dhaka S.K., Dimri A.P., '  Detection of Change in the Aerosol distribution over North-West India during the Covid-19 Lockdown period.', **2020 AGU Fall Meeting**,  San Francisco,  USA, 12/07/2020
+15. **Misra P.**, Takeuchi W., Imasu R., '  Brick Kiln Detection in North India with Sentinel imagery using Deep Learning of Small Datasets.', **40 Asian Conference of Remote Sensing**,  Daejeon,  South Korea, 16/10/2019
+14. **Misra P.**, Takeuchi W., '   Assessing population sensitivity to urban air pollution using Google Trends and remote sensing datasets.', **Pecora21/ISRSE38**,  Baltimore,  USA, 10/07/2019
+13. Sovisoth E., Thakur V.B., Nagai K.,**Misra P.**, Takeuchi W., '  Estimation of the bridge construction year in Cambodia by the analysis of LANDSAT satellite data.', **3 ACF Symposium**,  Sapporo,  Japan, 11/10/2019
+12. **Misra P.**, Takeuchi W., ' Use of Google Trends for Assessing Sensitivity of Population to Urban Air Pollution.', **26 International Symposium on Remote Sensing**,  Taipei,  Taiwan, 18/4/2019
+11. Arbain A., Imasu R.,**Misra P.**, Takeuchi W., '  Estimating PM$_{2.5}$ Emission from Brick Kiln Industry over Northern India with Numerical Model and Remote Sensing Observation.', **EGU General Assembly**,  Vienna,  Austria, 04/11/2019
+10. **Misra P.**, Takeuchi W., '  Analyzing perception of urban air pollution using Google Trends and satellite datasets.', **27th Institute of Industrial Science Forum Proceedings**,  Tokyo,  Japan, 03/07/2019
+9. **Misra P.**, Takeuchi W., ' A Novel Technique for Estimating Expansion of Residential, Commercial and Industrial Regions in Indian Megacities.', **17 International Symposium on Urban Safety Of Mega Cities In Asia**,  Hyderabad,  India, 12/12/2018
+8. **Best Paper Award Finalist** **Misra P.**, Imasu R., Takeuchi W., ' Land-use Change Impacts on Urban Air Quality in India using Hierarchical Bayesian Approach.', **39 Asian Conference of Remote Sensing**,  Kuala Lumpur,  Malaysia, 16/10/2018
+7. Ochi S.,**Misra P.**, Takeuchi W., ' Spatiotemporal Distribution Of Hotspot / Wildfire In Southeast Asia Using Remote Sensing Data.', **39 Asian Conference of Remote Sensing**,  Kuala Lumpur,  Malaysia, 18/10/2018
+6. **Best Paper Award** **Misra P.**, Takeuchi W., ' Hierarchical Bayesian approach to estimate land-use change impacts on urban air pollution in India.', **26 Institute of Industrial Science Forum Proceedings**,  Tokyo,  Japan, 03/06/2018
+5. **Misra P.**, Takeuchi W., ' Digital Surface Model (DSM) datasets for built-height estimation over Indian cities.', **24 International Symposium on Remote Sensing**,  Nagoya,  Japan, 18/5/2017
+4. **Misra P.**, Takeuchi W., ' Comparison of ASTER and AW3D derived Digital Surface Model datasets for built structure height estimation over Yangon city, Myanmar.', **25 Institute of Industrial Science Forum Proceedings**,  Tokyo,  Japan, 03/02/2017
+3. **Misra P.**, Takeuchi W., ' Assessing Impact of Economic Activities on Urban Air Quality in India by Nightlight and Atmospheric Measurement Datasets.', **37 Asian Conference of Remote Sensing**,  Colombo,  Sri Lanka, 18/10/2016
+2. **Misra P.**, Takeuchi W., ' Air Quality Analysis Using Nighttime Light for Indian Urban Regions.', **8 IGRSM International Conference and Exhibition on Geospatial \& Remote Sensing **,  Kuala Lumpur,  Malaysia, 13/4/2016
+1. **Misra P.**, Takeuchi W., ' Analysis Of Air Quality In Indian Cities Using Remote Sensing And Economic Growth Parameters.', **36 Asian Conference on Remote Sensing**,  Manila,  Philippines, 22/10/2015
 
 
 
