@@ -5,10 +5,10 @@ author_profile: true
 redirect_from: 
 ---
 
-## List of current PhD students
+## Current PhD students
 <img src="../images/bio-photo.jpg" width="100" height="100"> * Ms. Pallavi Chaurasia
 
-## List of current Masters students
+## Current Masters students
 <img src="../images/bio-photo.jpg" width="100" height="100"> * Mr. Sarvjeet Kumar
 
 <!---
