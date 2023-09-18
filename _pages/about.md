@@ -19,6 +19,6 @@ My hometown is Lucknow, Uttar Pradesh. I am a big supporter for walkable cities,
 
 Prospective researchers
 ------
-We are always looking for motivated graduate and undergraduate students, postdocs, and visiting scholars to join our team. If interested, please email to prakhar.misra[at]ce.iitr.ac.
+We are always looking for motivated graduate and undergraduate students, postdocs, and visiting scholars to join our team. If interested, please email to prakhar.misra[at]ce.iitr.ac.in . 
 
 
