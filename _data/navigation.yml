@@ -9,14 +9,17 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Research"
+    url: /projects/
         
-  - title: "News/Photos"
+  - title: "News Gallery"
     url: /news/
+  
+  - title: "Products"
+    url: /products/
     
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
     
   - title: "Contact"
     url: /contact/
