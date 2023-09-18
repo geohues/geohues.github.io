@@ -6,10 +6,10 @@ redirect_from:
 ---
 
 ## List of current PhD students
-* Ms. Pallavi Chaurasia
-![Getting Started](./images/site-logo.png)
+<img src="../images/bio-photo.jpg" width="100" height="100"> * Ms. Pallavi Chaurasia
+
 ## List of current Masters students
-* Mr. Sarvjeet Kumar
+<img src="../images/bio-photo.jpg" width="100" height="100"> * Mr. Sarvjeet Kumar
 
 <!---
 * Sumesh T.A., jointly with Prof. Phalguni Gupta <i>Open Seminar Done</i>
