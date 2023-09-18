@@ -7,7 +7,7 @@ redirect_from:
 
 ## List of current PhD students
 * Ms. Pallavi Chaurasia
-
+![Getting Started](./images/site-logo.png)
 ## List of current Masters students
 * Mr. Sarvjeet Kumar
 
