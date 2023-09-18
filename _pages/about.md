@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Geospatial for HUman Envirosnment Systems (Geo-HUES) laboratory homepage."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi, I am Prakhar Misra and I direct the Geospatial for HUman Environment Systems (Geo-HUES) lab. Our lab's research intersects the multidisciplinary fields of satellite remote sensing and GIS technology with human environment interactions. We are concerned with how geospatial technologies can be used for understanding the anthropogenic environmental impacts (and vice-versa) through changes in land-use land-cover, environment and socio-economic health. 
 
-A data-driven personal website
+We are always looking for motivated graduate and undergraduate students, postdocs, and visiting scholars to join our team. If interested, please email prakhar.misra[at]ce.iitr.ac.in
+
+About Prakhar Misra
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I am currently Assistant Professor Geomatics Group, Department of Civil Engineering at Indian Institute of Technology, Roorkee. My principal area of research interest is urban environmental (mostly atmospheric air quality) issues emanating from socio-economic growth in developing countries by using satellite retrieved air pollution and land-use datasets. I research end-to-end remote sensing dataset based framework to study policy scenario-based for eco-health impact. This perspective stems from my experience in academia and industry. Previously I have worked as Chief Technology Lead at synthetic aperture radar (SAR) satellite and solution provider Synspective, Inc.,  and have post-doctoral experiences at the Research Institute of Humanity and Nature, Kyoto (RIHN) and at the Institute of Industrial Science, The University of Tokyo (UTokyo). I completed my PhD in Remote Sensing from The University of Tokyo (2018) with Prof. Wataru Takeuchi, and undergraduate and graudate degrees are from Indian Institute of Technology Kanpur (IITK). 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+My hometown is Lucknow, Uttar Pradesh. I am a big supporter for walkable cities and enthusiastic about photography and long-distance cycling. 
 
 Getting started
 ======
