@@ -42,7 +42,8 @@ redirect_from:
          </p></td>
          <td>&nbsp;</td>
       </tr>
-   </tbody></table> 
+   </tbody>
+</table> 
 <br>
 
 
