@@ -19,8 +19,9 @@ redirect_from:
          Research Theme: Urban heat island and Urban air quality interactions <br>
          Email: pallavi_c[at]ce.iitr.ac.in <br>
          <!---  papers published
-         <a href="./document/Mapping PM2.5 in Indian cities handout.pdf">[Paper]</a> </p></td>  
+         <a href="./document/Mapping PM2.5 in Indian cities handout.pdf">[Paper]</a>   
          -->
+         </p></td>
          <td>&nbsp;</td>
       </tr>
    </tbody>
