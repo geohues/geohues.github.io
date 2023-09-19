@@ -40,7 +40,7 @@ redirect_from:
          <td width="68%"><p class="papertext"><strong>
          Mr. Sarvjeet Kumar (2023)</strong><br>
          Research Theme: Urbanization in Himalayan cities  <br>
-         Email: sarvjeet_k@ce.iitr.ac.in <br>
+         Email: sarvjeet_k[at]ce.iitr.ac.in <br>
          <td>&nbsp;</td>
       </tr>
    </tbody></table> 
