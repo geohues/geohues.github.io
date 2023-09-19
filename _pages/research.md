@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research at GEOHUES lab"
+title: "Research at GeoHUES lab"
 permalink: /research/
 author_profile: true
 ---

@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Prakhar Misra / Geo-HUES"
+title                    : "Prakhar Misra / GeoHUES"
 title_separator          : "-"
 name                     : &name "Prakhar Misra"
-description              : &description "I am faculty member at Geomatics group, Civil Engineering, IIT Roorkee. I along with my research group pursue research in developing Geospatial techniques for studying Human-Environment Systems (HUES)"
+description              : &description "I am faculty member at Geomatics group, Civil Engineering, IIT Roorkee. I along with my research group pursue research in developing Geospatial techniques (Geo) for studying Human-Environment Systems (HUES)"
 url                      : https://geohues.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "geohues/geohues.github.io"
