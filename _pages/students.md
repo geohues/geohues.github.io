@@ -6,10 +6,50 @@ redirect_from:
 ---
 
 ## Current PhD students
-<img src="../images/bio-photo.jpg" width="100" height="100"> * Ms. Pallavi Chaurasia
+
+ <!-- PhD Student  -->
+<p class="textsectionheader2"> </p>
+<table width="100%" border="0">
+<tbody>
+
+<tr>
+    <td width="26%"><img src="../images/bio-photo.jpg" width="100" height="100" class="papericon"></td>
+    <td width="4%"> </td>
+    <td width="68%"><p class="papertext"><strong>
+    Ms. Pallavi Chaurasia (2023)</strong><br>
+    Research Theme: Urban heat island and Urban air quality interactions <br>
+    Email: pallavi_c[at]ce.iitr.ac.in <br>
+    <!---  papers published
+    <a href="./document/Mapping PM2.5 in Indian cities handout.pdf">[Paper]</a> </p></td>  
+    -->
+    <td>&nbsp;</td>
+</tr>
+
+</tbody></table> 
+<br>
+
+
 
 ## Current Masters students
-<img src="../images/bio-photo.jpg" width="100" height="100"> * Mr. Sarvjeet Kumar
+ <!-- Master Student  -->
+<p class="textsectionheader2"> </p>
+<table width="100%" border="0">
+<tbody>
+
+<tr>
+    <td width="26%"><img src="../images/bio-photo.jpg" width="100" height="100" class="papericon"></td>
+    <td width="4%"> </td>
+    <td width="68%"><p class="papertext"><strong>
+    Mr. Sarvjeet Kumar (2023)</strong><br>
+    Research Theme: Urbanization in Himalayan cities  <br>
+    Email: sarvjeet_k@ce.iitr.ac.in <br>
+    <td>&nbsp;</td>
+</tr>
+
+
+</tbody></table> 
+<br>
+
 
 <!---
 * Sumesh T.A., jointly with Prof. Phalguni Gupta <i>Open Seminar Done</i>

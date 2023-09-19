@@ -156,11 +156,11 @@ Direction 3. Geoinformatics for health impacts through mapping human exposure an
 <img src="../images/researchdirection3.png" width="300" height="200">
 
 
-  <hr>
+<hr>
  <!-- Agriculture  -->
 <p class="textsectionheader2">Projects: Direction 3</p>
 <table width="100%" border="0">
-  <tbody>
+<tbody>
 
 
 <tr>
