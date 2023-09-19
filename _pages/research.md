@@ -113,7 +113,7 @@ Direction 1. Characterizing urban-rural land-use changes
 
 
 
-Direction 2. Modelling bottom-up land-use impact and top-down emissions
+Direction 2. Modelling bottom-up and top-down environmental impacts
 ===
 <p align="center">
 <img src="../images/researchdirection2.png" width="300" height="350">
@@ -179,7 +179,7 @@ Direction 2. Modelling bottom-up land-use impact and top-down emissions
 <br>
 
 
-Direction 3. Geoinformatics for health impacts through mapping human exposure and health risk
+Direction 3. Mapping human exposure and health risk
 ===
 
 <p align="center">
@@ -219,12 +219,21 @@ Direction 4. Infrastructure health monitoring
 <table width="100%" border="0">
     <tbody>
         <tr>
-            <td width="26%"><img src="../images/research/Agro_Vietnam2.PNG" width="150" height="140" class="papericon"></td>
+            <td width="26%"><img src="../images/research/bridgeAge.png" width="200" height="120 class="papericon"></td>
             <td width="4%"> </td>
             <td width="68%"><p class="papertext"><strong>
-            Identification of Rice-crop Calendar </strong><br>
-            H.V. Minh, <a href="https://ramenvjnu.wixsite.com/mysite">Ram Avtar Group</a>, <strong>Prakhar Misra</strong><br>
-            <a href="https://www.mdpi.com/2220-9964/8/5/211">[Paper]</a> </p></td>
+            Estimating bridge construction year using NDWI </strong><br>
+            Eam Sovisoth, Vikas Kuntal,  <strong>Prakhar Misra</strong><br>, Wataru Takeuchi, Kohei Nagai
+            <a href="https://www.mdpi.com/2412-3811/8/4/77#">[Paper]</a> </p></td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td width="26%"><img src="../images/research/inverseVelocity.png" width="200" height="190 class="papericon"></td>
+            <td width="4%"> </td>
+            <td width="68%"><p class="papertext"><strong>
+            Detecting precursor onset of acceleration and time of failure in PS point time series using saliency and inverse velocity </strong><br>
+            Rishabh Chavhan, <strong>Prakhar Misra</strong><br>, Yu Morishita, Abhi Arya
+            <a href="https://2023.ieeeigarss.org/view_paper.php?PaperNum=3858#top">[IGARSS 2023]</a> </p></td>
             <td>&nbsp;</td>
         </tr>
     </tbody></table> 
