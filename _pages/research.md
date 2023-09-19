@@ -1,30 +1,38 @@
 ---
 layout: archive
-title: "Research"
+title: "Research at GEOHUES lab"
 permalink: /research/
 author_profile: true
 ---
 
  
  
- At the **GeoHUES lab** we develop and exploit environmental remote sensing and geospatial techniques for investigating human-environment interactions pertaining to the nexus of land-use activities, environment and human impacts. We investigate driving mechanisms of land-use change and consequence of land-use changes on the environment. This involves characterizing spatio-temporal urban-rural land-use morphology, developing dynamic top-down and bottom-up air pollution emission inventories, and assessing human health impacts as shown in Figure 1. 
+ At the **GeoHUES lab** we develop and exploit environmental remote sensing and geospatial techniques for investigating human-environment interactions pertaining to the nexus of land-use activities, environment and human impacts. We investigate driving mechanisms of land-use change and consequence of land-use changes on the environment. This involves characterizing spatio-temporal urban-rural land-use morphology, developing dynamic top-down and bottom-up air pollution emission inventories, and assessing human health impacts as shown in Figure 1. A portion of research is also dedicated towards infrastructure monitoring. 
 
- <img src="../images/research-flow.png" width="200" height="200">
+<p align="center">
+   <img src="../images/research-flow.png" width="500" height="400">
+</p>
+
+
  
  
- Our work spans multiple data modalities such as space-borne optical and SAR sensors, UAV-borne sensors, low-cost air quality monitoring sensors and social sensing with process-based models. We have three main research directions:
-1. What are the characteristics of volumetric urban growth, building functions as well as rural land-use change? How are these shaped by socio-economic drivers?
-2. What are the variations of fine aerosol and trace gas concentrations and emissions over spatial scales ranging from urban/rural to regional, and temporally from diurnal to seasonal? How do physical land-processes determine tropospheric composition and air quality? 
-3. What environmental and socio-economic factors influence individual exposure and vulnerability? How can we model individual acute and chronic exposure and impacts by combining satellite and portable sensors measurements?
+Our research spans multiple data modalities such as space-borne optical and SAR sensors, UAV-borne sensors, low-cost air quality monitoring sensors and social sensing with process-based models. Our research includes following main themes:
+1. Land-use change: What are the characteristics of volumetric urban growth, building functions as well as rural land-use change? How are these shaped by socio-economic drivers?
+2. Environmental impact: What are the variations of fine aerosol and trace gas concentrations and emissions over spatial scales ranging from urban/rural to regional, and temporally from diurnal to seasonal? How do physical land-processes determine tropospheric composition and air quality? 
+3. Health impacts: What environmental and socio-economic factors influence individual exposure and vulnerability? How can we model individual acute and chronic exposure and impacts by combining satellite and portable sensors measurements?
+4. Infrastructure monitoring: What is the impact of environment on infrastructure health and safety? <br>
+
+
 
 Direction 1. Characterizing urban-rural land-use changes 
 ===
-<img src="../images/researchdirection1.png" width="300" height="200">
 
-
+<p align="center">
+    <img src="../images/researchdirection1.png" width="300" height="200">
+</p>
 
 <hr>
- <!-- Urban land-use  -->
+ <!-- Direction 1 Urban land-use  -->
  <p class="textsectionheader2"> </p>
  <table width="100%" border="0">
    <tbody>
@@ -79,6 +87,15 @@ Direction 1. Characterizing urban-rural land-use changes
     <td>&nbsp;</td>
 </tr>
 
+<tr>
+    <td width="26%"><img src="../images/research/Agro_Vietnam2.PNG" width="200" height="140" class="papericon"></td>
+    <td width="4%"> </td>
+    <td width="68%"><p class="papertext"><strong>
+    Identification of Rice-crop Calendar </strong><br>
+    H.V. Minh, <a href="https://ramenvjnu.wixsite.com/mysite">Ram Avtar Group</a>, <strong>Prakhar Misra</strong><br>
+    <a href="https://www.mdpi.com/2220-9964/8/5/211">[Paper]</a> </p></td>
+    <td>&nbsp;</td>
+</tr>
 
 <tr>
     <td width="26%"><img src="../images/research/AQ_NTL.PNG" width="200" height="180" class="papericon"></td>
@@ -86,12 +103,11 @@ Direction 1. Characterizing urban-rural land-use changes
     <td width="68%"><p class="papertext"><strong>
     Clustering by Nighttime light and Air Pollution </strong><br>
     <strong>Prakhar Misra</strong>, Wataru Takeuchi <br>
-    <!--<a href="https://www.mdpi.com/2072-4292/10/12/2008">[Publication]</a> <a href="https://github.com/mprakhar/DSM2DTM">[Github]</a> <a href="https://prakhar.users.earthengine.app/view/urban-morphology---ludhiana">[GEE App]</a> </p></td>
+    <!--<a href="https://www.mdpi.com/2072-4292/10/12/2008">[Publication]</a> <a href="https://github.com/mprakhar/DSM2DTM">[Github]</a> <a href="https://prakhar.users.earthengine.app/view/urban-morphology---ludhiana">[GEE App]</a> 
         -->
-        <td>&nbsp;</td>
+    </p></td>
+    <td>&nbsp;</td>
 </tr>
-
-
 </tbody></table> 
 <br>
 
@@ -99,11 +115,13 @@ Direction 1. Characterizing urban-rural land-use changes
 
 Direction 2. Modelling bottom-up land-use impact and top-down emissions
 ===
+<p align="center">
 <img src="../images/researchdirection2.png" width="300" height="350">
-
+</p>
 
 <p></p> 
-<p class="textsectionheader2">Projects: Air Quality</p>
+<!-- Direction 2 Environmental impacts  -->
+<p class="textsectionheader2"> </p>
 <table width="100%" border="0">
   <tbody>
 
@@ -146,25 +164,37 @@ Direction 2. Modelling bottom-up land-use impact and top-down emissions
     <a href="https://acp.copernicus.org/articles/21/2795/2021/">[Paper]</a> </p></td>
     <td>&nbsp;</td>
 </tr>
-	 
+
+<tr>
+    <td width="26%"><img src="../images/research/KBDIgif.gif" width="200" height="190" class="papericon"></td>
+    <td width="4%"> </td>
+    <td width="68%"><p class="papertext"><strong>
+    Remote sensing based KBDI Meteorological Drought Index </strong><br>
+    Wataru Takeuchi, <strong>Prakhar Misra</strong><br>
+    <a href="https://prakhar.users.earthengine.app/view/kbdithailand">[GEE]</a> </p></td>
+    <td>&nbsp;</td>
+</tr>
+
 </tbody></table> 
 <br>
 
 
 Direction 3. Geoinformatics for health impacts through mapping human exposure and health risk
 ===
-<img src="../images/researchdirection3.png" width="300" height="200">
 
+<p align="center">
+<img src="../images/researchdirection3.png" width="300" height="200">
+</p>
 
 <hr>
- <!-- Agriculture  -->
-<p class="textsectionheader2">Projects: Direction 3</p>
+ <!-- Direction 3 Health impacts  -->
+<p class="textsectionheader2"> </p>
 <table width="100%" border="0">
 <tbody>
 
 
 <tr>
-    <td width="26%"><img src="../images/research/lowcost_PM25.PNG" width="200" height="140" class="papericon"></td>
+    <td width="26%"><img src="../images/research/lowcost_PM25.PNG" width="200" height="160" class="papericon"></td>
     <td width="4%"> </td>
     <td width="68%"><p class="papertext"><strong>
     PM2.5 personal exposure mapping using portable low-cost sensors </strong><br>
@@ -177,42 +207,25 @@ Direction 3. Geoinformatics for health impacts through mapping human exposure an
   <br>
 
 
-<hr>
- <!-- Agriculture  -->
-<p class="textsectionheader2">Projects: Agriculture</p>
+
+
+
+Direction 4. Infrastructure health monitoring
+===
+
+<p></p> 
+<!-- Direction 4 Infrastructure health  -->
+<p class="textsectionheader2"> </p>
 <table width="100%" border="0">
-  <tbody>
-
-<tr>
-    <td width="26%"><img src="../images/research/Agro_Vietnam2.PNG" width="150" height="140" class="papericon"></td>
-    <td width="4%"> </td>
-    <td width="68%"><p class="papertext"><strong>
-    Identification of Rice-crop Calendar </strong><br>
-    H.V. Minh, <a href="https://ramenvjnu.wixsite.com/mysite">Ram Avtar Group</a>, <strong>Prakhar Misra</strong><br>
-    <a href="https://www.mdpi.com/2220-9964/8/5/211">[Paper]</a> </p></td>
-    <td>&nbsp;</td>
-</tr>
-
-<tr>
-    <td width="26%"><img src="../images/research/KBDIgif.gif" width="150" height="140" class="papericon"></td>
-    <td width="4%"> </td>
-    <td width="68%"><p class="papertext"><strong>
-    Remote sensing agromet cal/val of KBDI Drought Index </strong><br>
-    Wataru Takeuchi, <strong>Prakhar Misra</strong><br>
-    <a href="https://prakhar.users.earthengine.app/view/kbdithailand">[GEE]</a> </p></td>
-    <td>&nbsp;</td>
-</tr>
-
-<tr>
-    <td width="26%"><img src="../images/research/GEEApps.png" width="150" height="140" class="papericon"></td>
-    <td width="4%"> </td>
-    <td width="68%"><p class="papertext"><strong>
-    Link to some Google Earth Engine apps </strong><br>
-    <strong><a href="https://prakhar.users.earthengine.app/">Prakhar Misra</a></strong> <br>
-<a href="https://prakhar.users.earthengine.app/">[GEE]</a> </p></td>
-    <td>&nbsp;</td>
-</tr>
-
-  </tbody></table> 
+    <tbody>
+        <tr>
+            <td width="26%"><img src="../images/research/Agro_Vietnam2.PNG" width="150" height="140" class="papericon"></td>
+            <td width="4%"> </td>
+            <td width="68%"><p class="papertext"><strong>
+            Identification of Rice-crop Calendar </strong><br>
+            H.V. Minh, <a href="https://ramenvjnu.wixsite.com/mysite">Ram Avtar Group</a>, <strong>Prakhar Misra</strong><br>
+            <a href="https://www.mdpi.com/2220-9964/8/5/211">[Paper]</a> </p></td>
+            <td>&nbsp;</td>
+        </tr>
+    </tbody></table> 
   <br>
-
