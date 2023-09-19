@@ -9,11 +9,10 @@ redirect_from:
 
  <!-- PhD Student  -->
 <p class="textsectionheader2"> </p>
-<table width="100%" border=1px solid transparent>
+<table width="100%">
    <tbody>
       <tr>
          <td width="26%"><img src="../images/bio-photo.jpg" width="100" height="100" class="papericon"></td>
-         <!-- <td width="4%"> </td> -->
          <td width="74%"><p class="papertext"><strong>
          Ms. Pallavi Chaurasia (2023~)</strong><br>
          Research Theme: Urban heat island and Urban air quality interactions <br>
@@ -36,11 +35,11 @@ redirect_from:
    <tbody>
       <tr>
          <td width="26%"><img src="../images/bio-photo.jpg" width="100" height="100" class="papericon"></td>
-         <td width="4%"> </td>
          <td width="68%"><p class="papertext"><strong>
          Mr. Sarvjeet Kumar (2023~)</strong><br>
          Research Theme: Urbanization in Himalayan cities  <br>
          Email: sarvjeet_k[at]ce.iitr.ac.in <br>
+         </p></td>
          <td>&nbsp;</td>
       </tr>
    </tbody></table> 
