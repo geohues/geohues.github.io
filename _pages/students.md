@@ -26,14 +26,12 @@ redirect_from:
 </tbody></table> 
 <br>
 
-
-
 ## Current Masters students
+
  <!-- Master Student  -->
 <p class="textsectionheader2"> </p>
 <table width="100%" border="0">
 <tbody>
-
 <tr>
     <td width="26%"><img src="../images/bio-photo.jpg" width="100" height="100" class="papericon"></td>
     <td width="4%"> </td>
@@ -43,8 +41,6 @@ redirect_from:
     Email: sarvjeet_k@ce.iitr.ac.in <br>
     <td>&nbsp;</td>
 </tr>
-
-
 </tbody></table> 
 <br>
 
