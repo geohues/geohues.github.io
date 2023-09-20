@@ -206,7 +206,7 @@ Direction 4. Infrastructure health monitoring
 <table width="100%" border="0">
     <tbody>
         <tr>
-            <td width="32%"><img src="../images/research/bridgeAge.PNG" width="200" height="120 class="papericon"></td>            
+            <td width="32%"><img src="../images/research/bridgeAge.png" width="200" height="120 class="papericon"></td>            
             <td width="68%"><p class="papertext"><strong>
             Estimating bridge construction year using NDWI </strong><br>
             Eam Sovisoth, Vikas Kuntal,  <strong>Prakhar Misra</strong>, Wataru Takeuchi, Kohei Nagai<br>
@@ -214,7 +214,7 @@ Direction 4. Infrastructure health monitoring
             <td>&nbsp;</td>
         </tr>
         <tr>
-            <td width="32%"><img src="../images/research/inverseVelocity.PNG" width="200" height="190 class="papericon"></td>            
+            <td width="32%"><img src="../images/research/inverseVelocity.png" width="200" height="190 class="papericon"></td>            
             <td width="68%"><p class="papertext"><strong>
             Detecting precursor onset of acceleration and time of failure in PS point time series using saliency and inverse velocity </strong><br>
             Rishabh Chavhan, <strong>Prakhar Misra</strong>, Yu Morishita, Abhi Arya<br>
