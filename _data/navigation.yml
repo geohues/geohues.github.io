@@ -2,7 +2,7 @@
 main:
 
   - title: "Research"
-    url: /research/
+    url: /projects/
 
   - title: "Lab members"
     url: /members/  
@@ -19,7 +19,8 @@ main:
     url: /news/
   
   - title: "Products"
-    url: /products/
+    url: /links/
+  #  url: /products/
     
   #- title: "CV"
   #  url: /cv/
