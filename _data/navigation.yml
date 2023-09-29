@@ -19,7 +19,7 @@ main:
     url: /news/
   
   - title: "Products"
-    url: /links/
+    url: /products/
   #  url: /products/
     
   #- title: "CV"
