@@ -2,7 +2,7 @@
 main:
 
   - title: "Research"
-    url: /projects/
+    url: /research/
 
   - title: "Lab members"
     url: /members/  
