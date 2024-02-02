@@ -8,6 +8,26 @@ redirect_from:
 
 
 
+<a name="20240202"></a>
+<dl>
+   <dt>2024 Feb. 02</dt>
+   <dd>
+      <ul style="list-style-type:disc;">
+         <li>We enjoyed a new dinner party together!</li>
+      </ul>
+      <br>
+      <table style="margin-bottom: 0px;" class="no-border">
+         <tbody>
+            <tr>
+               <td><img src="../images/news/2024/PXL_20240201.jpg" width="500" alt="Dinner Party Image"></td>
+            </tr>
+            <tr>
+               <td><p></p></td>
+            </tr>
+         </tbody>
+      </table>
+   </dd>
+</dl>
 
 
 
@@ -15,7 +35,9 @@ redirect_from:
 <p align="justify"><dt>2024 Feb. 02</dt>
 <dd>
 <ul style= "list-style-type:disc;">
-We enjoyed new dinner party together!
+<li>We enjoyed new dinner party together!</li>
+</ul>
+</dd>
 <br>
 <table style="margin-bottom: 0px;" class="no-border">
 <tbody>
