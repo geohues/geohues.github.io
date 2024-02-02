@@ -28,7 +28,6 @@ redirect_from:
 
 
 ## Current PhD students
-
  <!-- PhD Student  -->
 <p class="textsectionheader2"> </p>
 <table width="100%">
@@ -38,7 +37,7 @@ redirect_from:
          <td width="74%"><p class="papertext"><strong>
          Pallavi Chaurasia (2023~)</strong><br>
          Research Theme: Urban heat island and Urban air quality interactions <br>
-         Email: pallavi_c[at]ce.iitr.ac.in <br>
+         Email: pallavi_c[at]ce.iitr.ac.in <br></p>
          <!---  papers published
          <a href="./document/Mapping PM2.5 in Indian cities handout.pdf">[Paper]</a>   
          -->
@@ -48,7 +47,7 @@ redirect_from:
          <td width="74%"><p class="papertext"><strong>
          Kunal Bansal (2023~)</strong><br>
          Research Theme: 3 dimensional urbanization and decarcbonization  <br>
-         Email: kunal_b[at]ce.iitr.ac.in <br>
+         Email: kunal_b[at]ce.iitr.ac.in <br></p>
       </tr>
       <tr>
          <td width="26%"><img src="../images/bio-photo.jpg" width="100" height="100" class="papericon"></td>
@@ -65,10 +64,9 @@ redirect_from:
 
 
 ## Current Masters students
-
  <!-- Master Student  -->
 <p class="textsectionheader2"> </p>
-<table width="100%" border="0">
+<table width="100%">
    <tbody>
       <tr>
          <td width="26%"><img src="../images/bio-photo.jpg" width="100" height="100" class="papericon"></td>
