@@ -12,7 +12,7 @@ redirect_from:
 <table width="100%">
    <tbody>
       <tr>
-         <td width="26%"><img src="../images/profile-HeadshotLarge.png" width="100" height="100" class="papericon"></td>
+         <td width="26%"><img src="../images/profile-HeadshotLarge.png" width="150" height="150" class="papericon"></td>
          <td width="74%"><p class="papertext"><strong><br>          
          Prakhar Misra</strong><br>
          I am currently Assistant Professor in the Geomatics Group, Department of Civil Engineering at Indian Institute of Technology, Roorkee and lead the GeoHUES lab. My research interests lie in urban environmental (such as anthropogenic emissions) issues emanating from socio-economic growth in developing countries by using satellite retrieved air pollution, and land-use datasets. I research end-to-end remote sensing dataset based framework to study policy scenario-based for eco-health impact. <br> 
@@ -45,14 +45,14 @@ redirect_from:
       </tr>
       <tr>
          <td width="26%"><img src="../images/bio-photo.jpg" width="100" height="100" class="papericon"></td>
-         <td width="80%"><p class="papertext"><strong>
+         <td width="74%"><p class="papertext"><strong>
          Kunal Bansal (2023~)</strong><br>
          Research Theme: 3 dimensional urbanization and decarcbonization  <br>
          Email: kunal_b[at]ce.iitr.ac.in <br>
       </tr>
       <tr>
          <td width="26%"><img src="../images/bio-photo.jpg" width="100" height="100" class="papericon"></td>
-         <td width="80%"><p class="papertext"><strong>
+         <td width="74%"><p class="papertext"><strong>
          Ravi Kant (2024~)</strong><br>
          Research Theme: TBA  <br>
          Email: ravi_k[at]ce.iitr.ac.in <br>
@@ -63,6 +63,7 @@ redirect_from:
 </table> 
 <br>
 
+
 ## Current Masters students
 
  <!-- Master Student  -->
@@ -71,21 +72,21 @@ redirect_from:
    <tbody>
       <tr>
          <td width="26%"><img src="../images/bio-photo.jpg" width="100" height="100" class="papericon"></td>
-         <td width="80%"><p class="papertext"><strong>
+         <td width="74%"><p class="papertext"><strong>
          Sarvjeet Kumar (2022~)</strong><br>
          Research Theme: Farm abandonment in Himalayan cities villages  <br>
          Email: sarvjeet_k[at]ce.iitr.ac.in <br>
       </tr>
       <tr>
          <td width="26%"><img src="../images/bio-photo.jpg" width="100" height="100" class="papericon"></td>
-         <td width="80%"><p class="papertext"><strong>
+         <td width="74%"><p class="papertext"><strong>
          Sayeed Anwar (2023~)</strong><br>
          Research Theme: Air pollution  <br>
          Email: sayeed_a[at]ce.iitr.ac.in <br>
       </tr>
       <tr>
          <td width="26%"><img src="../images/bio-photo.jpg" width="100" height="100" class="papericon"></td>
-         <td width="80%"><p class="papertext"><strong>
+         <td width="74%"><p class="papertext"><strong>
          Avinash Mehta (2023~)</strong><br>
          Research Theme: Brick Kiln mapping  <br>
          Email: avinash_m[at]ce.iitr.ac.in <br>
