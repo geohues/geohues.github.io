@@ -12,7 +12,7 @@ redirect_from:
 <table width="100%">
    <tbody>
       <tr>
-         <td width="26%"><img src="../images/bio-photo.jpg" width="100" height="100" class="papericon"></td>
+         <td width="26%"><img src="../images/profile-HeadshotLarge.png" width="100" height="100" class="papericon"></td>
          <td width="74%"><p class="papertext"><strong><br>          
          Prakhar Misra</strong><br>
          I am currently Assistant Professor in the Geomatics Group, Department of Civil Engineering at Indian Institute of Technology, Roorkee and lead the GeoHUES lab. My research interests lie in urban environmental (such as anthropogenic emissions) issues emanating from socio-economic growth in developing countries by using satellite retrieved air pollution, and land-use datasets. I research end-to-end remote sensing dataset based framework to study policy scenario-based for eco-health impact. <br> 
