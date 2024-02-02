@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Our lab's research intersects the multidisciplinary fields of satellite remote sensing and GIS technology along with human-environment interactions. We are concerned with how geospatial technologies can be used for understanding the anthropogenic environmental impacts (and vice-versa) through changes in land-use land-cover, environment and socio-economic health. 
+Our lab researches in developing Geospatial techniques (Geo) for studying Human-Environment Systems (HUES). Our research intersects the multidisciplinary fields of satellite remote sensing and GIS technology along with human-environment interactions. We are concerned with how geospatial technologies can be used for understanding the anthropogenic environmental impacts (and vice-versa) through changes in land-use land-cover, environment and socio-economic health. 
 
 
 

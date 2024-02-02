@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Prakhar Misra / GeoHUES"
+title                    : "GeoHUES"
 title_separator          : "-"
 name                     : &name "Prakhar Misra"
 description              : &description "I am faculty member at Geomatics group, Civil Engineering, IIT Roorkee. I along with my research group pursue research in developing Geospatial techniques (Geo) for studying Human-Environment Systems (HUES)"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Prakhar Misra"
-  avatar           : "profile-HeadshotLarge.png"
-  bio              : "Faculty member at <br><a style='color: black;' href='https://civil.iitr.ac.in/CE?Uid=prakhar.misra'>Civil Engineering ,</a> <a style='color: black;' href='https://www.iitr.ac.in/'> IIT Roorkee,</a><br> Research Interests <br> Remote Sensing,<br> Human-Environment Impacts"
+  name             : "GeoHUES Lab"
+  avatar           : "logo2.png"
+  bio              : "at Geospatial Engineering Group, Faculty member at <br><a style='color: black;' href='https://civil.iitr.ac.in/CE?Uid=prakhar.misra'>Civil Engineering ,</a> <a style='color: black;' href='https://www.iitr.ac.in/'> IIT Roorkee,</a><br> Research Interests <br> Remote Sensing,<br> Human-Environment Impacts"
   location         : "Roorkee, India"
   employer         : " Indian Institute of Technology Roorkee"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
