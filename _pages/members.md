@@ -19,7 +19,7 @@ redirect_from:
          My hometown is Lucknow, Uttar Pradesh and I am a big supporter for walkable cities, and enthusiastic about photography and long-distance cycling. <br> 
          Email:  <span class="email">prakhar.misra[at]ce.iitr.ac.in</span> <br>         
          </p></td>
-         <td>&nbsp;</td>
+         <td></td>
       </tr>
    </tbody>
 </table> 
@@ -47,15 +47,14 @@ redirect_from:
          <td width="74%"><p class="papertext"><strong>
          Kunal Bansal (2023~)</strong><br>
          Research Theme: 3 dimensional urbanization and decarcbonization  <br>
-         Email: kunal_b[at]ce.iitr.ac.in </p>
+         Email: kunal_b[at]ce.iitr.ac.in </p></td>
       </tr>
       <tr>
          <td width="26%"><img src="../images/bio-photo.jpg" width="100" height="100" class="papericon"></td>
          <td width="74%"><p class="papertext"><strong>
          Ravi Kant (2024~)</strong><br>
          Research Theme: TBA  <br>
-         Email: ravi_k[at]ce.iitr.ac.in </p>
-         </td>
+         Email: ravi_k[at]ce.iitr.ac.in </p></td>
          <td></td>
       </tr>
    </tbody>
@@ -73,14 +72,14 @@ redirect_from:
          <td width="74%"><p class="papertext"><strong>
          Sarvjeet Kumar (2022~)</strong><br>
          Research Theme: Farm abandonment in Himalayan cities villages  <br>
-         Email: sarvjeet_k[at]ce.iitr.ac.in <br>
+         Email: sarvjeet_k[at]ce.iitr.ac.in </p></td>
       </tr>
       <tr>
          <td width="26%"><img src="../images/bio-photo.jpg" width="100" height="100" class="papericon"></td>
          <td width="74%"><p class="papertext"><strong>
          Sayeed Anwar (2023~)</strong><br>
          Research Theme: Air pollution  <br>
-         Email: sayeed_a[at]ce.iitr.ac.in <br>
+         Email: sayeed_a[at]ce.iitr.ac.in </p></td>
       </tr>
       <tr>
          <td width="26%"><img src="../images/bio-photo.jpg" width="100" height="100" class="papericon"></td>
@@ -89,7 +88,7 @@ redirect_from:
          Research Theme: Brick Kiln mapping  <br>
          Email: avinash_m[at]ce.iitr.ac.in <br>
          </p></td>
-         <td>&nbsp;</td>
+         <td></td>
       </tr>
    </tbody>
 </table> 
