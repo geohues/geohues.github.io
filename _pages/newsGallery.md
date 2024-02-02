@@ -13,7 +13,7 @@ redirect_from:
    <p align="justify"><dt>2024 Feb. 02</dt>
    <dd>
       <ul style="list-style-type:disc;">
-         <li>We enjoyed a new dinner party together!</li>
+         <li>We enjoyed introduction seminar and a new year dinner party together!</li>
       </ul>
       <br>
       <table style="margin-bottom: 0px;" class="no-border">
@@ -36,7 +36,7 @@ redirect_from:
    <p align="justify"><dt>2024 Jan. 01</dt>
    <dd>
       <ul style="list-style-type:disc;">
-         <li>2 Global Patents awarded to our work "GROUND MOVEMENT ANALYSIS DEVICE AND GROUND MOVEMENT ANALYSIS METHOD", a ground deformation early warning systems using hashtag#SAR processing framework. It was developed at Synspective Inc. while working to identify the precursors of a major glacial lake outburst flood disaster in Nepal. We look forward to doing more solutions with your support. The patents can be viewed at: <br>
+         <li>2 Global Patents awarded to our work "GROUND MOVEMENT ANALYSIS DEVICE AND GROUND MOVEMENT ANALYSIS METHOD", a ground deformation early warning systems using InSAR processing framework. It was developed at Synspective Inc. while working to identify the precursors of a major glacial lake outburst flood disaster in Nepal. We look forward to doing more solutions with your support. The patents can be viewed at: <br>
 PCTJP2022026506: https://patents.google.com/patent/WO2024004215A1/ja?oq=PCTJP2022026506<br>
 PCTJP2022026508: https://patents.google.com/patent/WO2024004216A1/ja?oq=PCTJP2022026508</li>
       </ul>
