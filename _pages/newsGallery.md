@@ -45,8 +45,28 @@ We enjoyed new dinner party together!
 </table>
 </dd>
 
+<a name="20240104"></a>
+<p align="justify"><dt>2024 Jan. 01</dt>
+<dd>
+<ul style= "list-style-type:disc;">
+2 Global Patents awarded to our work "GROUND MOVEMENT ANALYSIS DEVICE AND GROUND MOVEMENT ANALYSIS METHOD", a ground deformation early warning systems using hashtag#SAR processing framework. It was developed at Synspective Inc. while working to identify the precursors of a major glacial lake outburst flood disaster in Nepal. We look forward to doing more solutions with your support. The patents can be viewed at:
+PCTJP2022026506: https://patents.google.com/patent/WO2024004215A1/ja?oq=PCTJP2022026506
+PCTJP2022026508: https://patents.google.com/patent/WO2024004216A1/ja?oq=PCTJP2022026508
+
+<br>
+<table style="margin-bottom: 0px;" class="no-border">
+<tbody>
+<tr>
+</tr>
+<tr>
+<td><p></p></td>
+</tr>
+</tbody>
+</table>
+</dd>
+
 <a name="20230902"></a>
-<p align="justify"><dt>2024 Feb. 02</dt>
+<p align="justify"><dt>2023 Sep. 18</dt>
 <dd>
 <ul style= "list-style-type:disc;">
 Welcome and interactions with new (and senior) students at the Geospatial Engineering Group.
