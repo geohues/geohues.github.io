@@ -7,21 +7,18 @@ author_profile: true
 
  
  
- At the **GeoHUES lab** we develop and exploit environmental remote sensing and geospatial techniques for investigating human-environment interactions pertaining to the nexus of land-use activities, environment and human impacts. We investigate driving mechanisms of land-use change and consequence of land-use changes on the environment. This involves characterizing spatio-temporal urban-rural land-use morphology, developing dynamic top-down and bottom-up air pollution emission inventories, and assessing human health impacts as shown in Figure 1. A portion of research is also dedicated towards infrastructure monitoring. 
+ At the **GeoHUES lab** we develop and exploit environmental remote sensing and geospatial techniques for investigating human-environment interactions pertaining to the nexus of land-use activities, environment and human impacts. We investigate driving mechanisms of land-use change and consequence of land-use changes on the environment. This involves characterizing spatio-temporal urban-rural land-use morphology, developing dynamic top-down and bottom-up air pollution emission inventories, and assessing human health impacts as shown in below. Our research spans multiple data modalities such as space-borne optical and SAR sensors, UAV-borne sensors, low-cost air quality monitoring sensors and social sensing with process-based models. A portion of research is also dedicated towards infrastructure monitoring. 
 
 <p align="center">
    <img src="../images/research-flow.png" width="500" height="400">
 </p>
 
 
- 
- 
-Our research spans multiple data modalities such as space-borne optical and SAR sensors, UAV-borne sensors, low-cost air quality monitoring sensors and social sensing with process-based models. Our research includes following main themes:
-1. Land-use change: What are the characteristics of volumetric urban growth, building functions as well as rural land-use change? How are these shaped by socio-economic drivers?
-2. Environmental impact: What are the variations of fine aerosol and trace gas concentrations and emissions over spatial scales ranging from urban/rural to regional, and temporally from diurnal to seasonal? How do physical land-processes determine tropospheric composition and air quality? 
-3. Health impacts: What environmental and socio-economic factors influence individual exposure and vulnerability? How can we model individual acute and chronic exposure and impacts by combining satellite and portable sensors measurements?
+ Main research themes:
+1. Land-use change: Characteristics of volumetric urban growth, building functions as well as rural land-use change. How are these shaped by socio-economic drivers?
+2. Environmental impact: Spatio-temporal variations of pollutants, trace gas concentrations and emissions? How physical land-processes regluate this? 
+3. Health impacts: Environmental and socio-economic factors influencing individual exposure and vulnerability? Modelling acute and chronic exposure/impacts by combining satellite and portable sensors measurements.
 4. Infrastructure monitoring: What is the impact of environment on infrastructure health and safety? <br>
-
 
 
 Direction 1. Characterizing urban-rural land-use changes 
