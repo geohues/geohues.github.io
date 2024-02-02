@@ -12,12 +12,12 @@ redirect_from:
 <table width="100%">
    <tbody>
       <tr>
-         <td width="26%"><img src="../images/profile-HeadshotLarge.png" width="150" height="150" class="papericon"></td>
+         <td width="26%"><img src="../images/profile-HeadshotLarge.png" alt="Prakhar Misra" width="150" height="150" class="papericon"></td>
          <td width="74%"><p class="papertext"><strong><br>          
          Prakhar Misra</strong><br>
          I am currently Assistant Professor in the Geomatics Group, Department of Civil Engineering at Indian Institute of Technology, Roorkee and lead the GeoHUES lab. My research interests lie in urban environmental (such as anthropogenic emissions) issues emanating from socio-economic growth in developing countries by using satellite retrieved air pollution, and land-use datasets. I research end-to-end remote sensing dataset based framework to study policy scenario-based for eco-health impact. <br> 
          My hometown is Lucknow, Uttar Pradesh and I am a big supporter for walkable cities, and enthusiastic about photography and long-distance cycling. <br> 
-         Email: prakhar.misra[at]ce.iitr.ac.in <br>         
+         Email:  <span class="email">prakhar.misra[at]ce.iitr.ac.in</span> <br>         
          </p></td>
          <td>&nbsp;</td>
       </tr>
@@ -37,7 +37,7 @@ redirect_from:
          <td width="74%"><p class="papertext"><strong>
          Pallavi Chaurasia (2023~)</strong><br>
          Research Theme: Urban heat island and Urban air quality interactions <br>
-         Email: pallavi_c[at]ce.iitr.ac.in <br></p>
+         Email: pallavi_c[at]ce.iitr.ac.in </p></td>
          <!---  papers published
          <a href="./document/Mapping PM2.5 in Indian cities handout.pdf">[Paper]</a>   
          -->
@@ -47,16 +47,16 @@ redirect_from:
          <td width="74%"><p class="papertext"><strong>
          Kunal Bansal (2023~)</strong><br>
          Research Theme: 3 dimensional urbanization and decarcbonization  <br>
-         Email: kunal_b[at]ce.iitr.ac.in <br></p>
+         Email: kunal_b[at]ce.iitr.ac.in </p>
       </tr>
       <tr>
          <td width="26%"><img src="../images/bio-photo.jpg" width="100" height="100" class="papericon"></td>
          <td width="74%"><p class="papertext"><strong>
          Ravi Kant (2024~)</strong><br>
          Research Theme: TBA  <br>
-         Email: ravi_k[at]ce.iitr.ac.in <br>
-         </p></td>
-         <td>&nbsp;</td>
+         Email: ravi_k[at]ce.iitr.ac.in </p>
+         </td>
+         <td></td>
       </tr>
    </tbody>
 </table> 
