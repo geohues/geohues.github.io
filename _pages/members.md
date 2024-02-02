@@ -58,7 +58,14 @@ redirect_from:
          <td width="26%"><img src="../images/bio-photo.jpg" width="100" height="100" class="papericon"></td>
          <td width="80%"><p class="papertext"><strong>
          Mr. Sarvjeet Kumar (2023~)</strong><br>
-         Research Theme: Urbanization in Himalayan cities  <br>
+         Research Theme: Farm abandonment in Himalayan cities villages  <br>
+         Email: sarvjeet_k[at]ce.iitr.ac.in <br>
+         </p></td>
+         <td>&nbsp;</td>
+         <td width="26%"><img src="../images/bio-photo.jpg" width="100" height="100" class="papericon"></td>
+         <td width="80%"><p class="papertext"><strong>
+         Mr. Avinash Kumar (2023~)</strong><br>
+         Research Theme: Farm abandonment in Himalayan cities villages  <br>
          Email: sarvjeet_k[at]ce.iitr.ac.in <br>
          </p></td>
          <td>&nbsp;</td>
