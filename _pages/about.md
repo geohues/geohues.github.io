@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Geospatial for HUman Envirosnment Systems (GeoHUES) group homepage."
+title: "Welcome to Geospatial for HUman Environment Systems (GeoHUES) group homepage."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
