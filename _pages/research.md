@@ -25,7 +25,7 @@ Direction 1. Characterizing urban-rural land-use changes
 ===
 
 <p align="center">
-    <img src="../images/researchdirection1.png" width="300" height="200">
+    <img src="../images/researchdirection1.png" width="500" height="400">
 </p>
 
 <hr>
@@ -106,7 +106,7 @@ Direction 1. Characterizing urban-rural land-use changes
 Direction 2. Modelling bottom-up and top-down environmental impacts
 ===
 <p align="center">
-<img src="../images/researchdirection2.png" width="300" height="350">
+<img src="../images/researchdirection2.png" width="500" height="600">
 </p>
 
 <p></p> 
@@ -168,7 +168,7 @@ Direction 3. Mapping human exposure and health risk
 ===
 
 <p align="center">
-<img src="../images/researchdirection3.png" width="300" height="200">
+<img src="../images/researchdirection3.png" width="500" height="400">
 </p>
 
 <hr>
