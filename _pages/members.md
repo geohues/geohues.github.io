@@ -33,28 +33,34 @@ redirect_from:
 <table width="100%">
    <tbody>
       <tr>
-         <td width="26%"><img src="../images/bio-photo.jpg" width="100" height="100" class="papericon"></td>
+         <td width="26%"><img src="../images/members/noImage.jpgjpg" width="100" height="100" class="papericon"></td>
          <td width="74%"><p class="papertext"><strong>
          Pallavi Chaurasia (2023~)</strong><br>
          Research Theme: Urban heat island and Urban air quality interactions <br>
-         Email: pallavi_c[at]ce.iitr.ac.in </p></td>
+         Email: pallavi_c[at]ce.iitr.ac.in <br>
+         Background: M.Tech. (Geomatics),  NIT Warangal <br>
+         Hobbies: Travel, Dance, Reading Books </p></td>
          <!---  papers published
          <a href="./document/Mapping PM2.5 in Indian cities handout.pdf">[Paper]</a>   
          -->
       </tr>
       <tr>
-         <td width="26%"><img src="../images/bio-photo.jpg" width="100" height="100" class="papericon"></td>
+         <td width="26%"><img src="../images/members/Kunal .jpg" width="100" height="100" class="papericon"></td>
          <td width="74%"><p class="papertext"><strong>
          Kunal Bansal (2023~)</strong><br>
          Research Theme: 3 dimensional urbanization and decarcbonization  <br>
-         Email: kunal_b[at]ce.iitr.ac.in </p></td>
+         Email: kunal_b[at]ce.iitr.ac.in <br>
+         Background: M.Tech. (Geomatics), IIT Roorkee <br>
+         Hobbies: Swimming, Singing, Biography movies  </p></td>
       </tr>
       <tr>
-         <td width="26%"><img src="../images/bio-photo.jpg" width="100" height="100" class="papericon"></td>
+         <td width="26%"><img src="../images/members/Ravi kant.jpg" width="100" height="100" class="papericon"></td>
          <td width="74%"><p class="papertext"><strong>
          Ravi Kant (2024~)</strong><br>
          Research Theme: TBA  <br>
-         Email: ravi_k[at]ce.iitr.ac.in </p></td>
+         Email: ravi_k[at]ce.iitr.ac.in <br>
+         Background: M. Tech. (Remote Sensing and GIS), IIRS Dehradun <br>
+         Hobbies: Table Tennis, Chess and Photography </p></td>
          <td></td>
       </tr>
    </tbody>
@@ -68,25 +74,31 @@ redirect_from:
 <table width="100%">
    <tbody>
       <tr>
-         <td width="26%"><img src="../images/bio-photo.jpg" width="100" height="100" class="papericon"></td>
+         <td width="26%"><img src="../images/members/Sarvjeet.jpg" width="100" height="100" class="papericon"></td>
          <td width="74%"><p class="papertext"><strong>
          Sarvjeet Kumar (2022~)</strong><br>
          Research Theme: Farm abandonment in Himalayan cities villages  <br>
-         Email: sarvjeet_k[at]ce.iitr.ac.in </p></td>
+         Email: sarvjeet_k[at]ce.iitr.ac.in <br>
+         Background: B.Tech. (Civil Enginnering), NSUT west campus <br>
+         Hobbies: Swimming, Travelling </p></td>
       </tr>
       <tr>
-         <td width="26%"><img src="../images/bio-photo.jpg" width="100" height="100" class="papericon"></td>
+         <td width="26%"><img src="../images/members/Sayeed.jpg" width="100" height="100" class="papericon"></td>
          <td width="74%"><p class="papertext"><strong>
          Sayeed Anwar (2023~)</strong><br>
          Research Theme: Air pollution  <br>
-         Email: sayeed_a[at]ce.iitr.ac.in </p></td>
+         Email: sayeed_a[at]ce.iitr.ac.in <br>
+         Background: Bachelor of Planning, SPA Bhopal <br>
+         Hobbies: Swimming, Table Tennis, Badminton, Photography </p></td>
       </tr>
       <tr>
-         <td width="26%"><img src="../images/bio-photo.jpg" width="100" height="100" class="papericon"></td>
+         <td width="26%"><img src="../images/members/Avinash.jpg" width="100" height="100" class="papericon"></td>
          <td width="74%"><p class="papertext"><strong>
          Avinash Mehta (2023~)</strong><br>
          Research Theme: Brick Kiln mapping  <br>
          Email: avinash_m[at]ce.iitr.ac.in <br>
+         Background: B.Tech. (Civil Engineerig), RSR RCET Bhilai <br>
+         Hobbies: Martial Arts, Travelling, Sci-fi movies </p></td>
          </p></td>
          <td></td>
       </tr>
