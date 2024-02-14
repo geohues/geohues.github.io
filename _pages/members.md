@@ -45,7 +45,7 @@ redirect_from:
          -->
       </tr>
       <tr>
-         <td width="26%"><img src="../images/members/Kunal .jpg" width="100" height="100" class="papericon"></td>
+         <td width="26%"><img src="../images/members/Kunal.jpg" width="100" height="100" class="papericon"></td>
          <td width="74%"><p class="papertext"><strong>
          Kunal Bansal (2023~)</strong><br>
          Research Theme: 3 dimensional urbanization and decarcbonization  <br>
@@ -54,7 +54,7 @@ redirect_from:
          Hobbies: Swimming, Singing, Biography movies  </p></td>
       </tr>
       <tr>
-         <td width="26%"><img src="../images/members/Ravi kant.jpg" width="100" height="100" class="papericon"></td>
+         <td width="26%"><img src="../images/members/Ravikant.jpg" width="100" height="100" class="papericon"></td>
          <td width="74%"><p class="papertext"><strong>
          Ravi Kant (2024~)</strong><br>
          Research Theme: TBA  <br>
