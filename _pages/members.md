@@ -86,7 +86,7 @@ redirect_from:
          <td width="26%"><img src="../images/members/Sayeed.jpg" width="100" height="100" class="papericon"></td>
          <td width="74%"><p class="papertext"><strong>
          Sayeed Anwar (2023~)</strong><br>
-         Research Theme: Air pollution  <br>
+         Research Theme: Air pollution.  <br>
          Email: sayeed_a[at]ce.iitr.ac.in <br>
          Background: Bachelor of Planning, SPA Bhopal <br>
          Hobbies: Swimming, Table Tennis, Badminton, Photography </p></td>
