@@ -33,7 +33,7 @@ redirect_from:
 <table width="100%">
    <tbody>
       <tr>
-         <td width="26%"><img src="../images/members/noImage.jpgjpg" width="100" height="100" class="papericon"></td>
+         <td width="26%"><img src="../images/members/noImage.jpg" width="100" height="100" class="papericon"></td>
          <td width="74%"><p class="papertext"><strong>
          Pallavi Chaurasia (2023~)</strong><br>
          Research Theme: Urban heat island and Urban air quality interactions <br>
