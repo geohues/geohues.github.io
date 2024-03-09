@@ -154,26 +154,30 @@ Direction 3. Mapping human exposure and health risk
 <img src="../images/researchdirection3.png" width="500" height="400">
 </p>
 
+
 <hr>
  <!-- Direction 3 Health impacts  -->
-<p class="textsectionheader2"> </p>
-<table width="100%" border="0">
-<tbody>
-
-
-<tr>
-    <td width="32%"><img src="../images/research/lowcost_PM25.PNG" width="200" height="160" class="papericon"></td>    
-    <td width="68%"><p class="papertext"><strong>
-    PM2.5 personal exposure mapping using portable low-cost sensors </strong><br>
-    <strong>Prakhar Misra</strong>, Wataru Takeuchi <br>
-    <a href="./document/Mapping PM2.5 in Indian cities handout.pdf">[presentation]</a> </p></td>
-    <td>&nbsp;</td>
-</tr>
-
-  </tbody></table> 
-  <br>
-
-
+   <p class="textsectionheader2"> </p>
+   <table width="100%">
+   <tbody>
+      <tr>
+         <td width="40%"><img src="../images/research/lowcost_PM25.PNG"   width="200" height="140" class="papericon"></td>
+         <td width="60%" class="papertext">
+            <p><strong>PM2.5 personal exposure mapping using portable low-cost sensors </strong></p>
+            <a href="./document/Mapping PM2.5 in Indian cities handout.pdf">[Presentation]</a>
+         </td>
+      </tr>
+      <tr>
+         <td width="40%"><img src="../images/research/AQ_GT.PNG"   width="200" height="140" class="papericon"></td>
+         <td width="60%" class="papertext">
+            <p><strong>Social sensing resident interest in air quality and health impacts across Asian cities </strong></p>
+            <a href="https://edcintl.cr.usgs.gov/downloads/sciweb1/shared/co/nli_pecora/pecora_21/manuscript_proceedings/Assessing_Population_Sensitivity_to_Urban_Air_Pollution.pdf">[Misra & Takeuchi 2020 Int. Arch. PRSSIS]</a>
+            <a href="https://opac.ll.chiba-u.jp/da/curator/109294/BA64563608-22-P037.pdf">[Presentation]</a>
+         </td>
+      </tr>
+   </tbody>
+ </table> 
+<br>
 
 
 
