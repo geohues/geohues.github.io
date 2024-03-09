@@ -42,6 +42,7 @@ Direction 1. Characterizing urban-rural land-use changes
          <td width="60%" class="papertext">
             <p><strong>Identification of Brick Kilns using Sentinel-2 Imagery</strong></p>
             <a href="https://www.mdpi.com/2220-9964/9/9/544">[Misra et al. 2020 ISPRS IJGI]</a>
+            <a href="https://timesofindia.indiatimes.com/city/delhi/study-tries-to-assess-brick-kilns-impact-on-air/articleshow/79711115.cms">[Media coverage, Time of India]</a>
          </td>
       </tr>
       <tr>
@@ -93,59 +94,57 @@ Direction 2. Modelling bottom-up and top-down environmental impacts
 <img src="../images/researchdirection2.png" width="500" height="600">
 </p>
 
-<p></p> 
+
+
+
+<hr>
 <!-- Direction 2 Environmental impacts  -->
-<p class="textsectionheader2"> </p>
-<table width="100%" border="0">
-  <tbody>
-
-<tr>
-    <td width="32%"><img src="../images/research/AQ_NOx.gif" width="200" height="140" class="papericon"></td>
-    <td width="68%"><p class="papertext"><strong>
-    Top-down NOx Emission estimation with special focus on COVID-locakdown  </strong><br>
-    <strong>Prakhar Misra</strong>, <a href="https://aakash-rihn.org/">Project Aakash</a>, Sachiko Hayashida <br>
-    <a href="https://www.nature.com/articles/s41598-021-87673-2">[Paper]</a>   </p></td>
-    <td>&nbsp;</td>
-</tr>
-
-<tr>
-    <td width="32%"><img src="../images/research/AirRGB_India_20171215.gif" width="200" height="140" class="papericon"></td>    
-    <td width="68%"><p class="papertext"><strong>
-    Urban Air Quality (PM2.5) Indicator using Aerosol Optical Depth  </strong><br>
-    <strong>Prakhar Misra</strong>, Aya Fujikawa, Ryoichi Imasu, Wataru Takeuchi <br>
-    <a href="http://www.mdpi.com/2072-4292/9/8/851">[Paper]</a>   </p></td>
-    <td>&nbsp;</td>
-</tr>
-
-<tr>
-    <td width="32%"><img src="../images/research/AQ_EI.gif" width="200" height="140" class="papericon"></td>
-    <td width="68%"><p class="papertext"><strong>
-    Contribution by  Land-use types to Urban Air Pollution</strong><br>
-    <strong>Prakhar Misra</strong>, Ryoichi Imasu, Wataru Takeuchi  <br>
-    <a href="https://link.springer.com/article/10.1007%2Fs11625-021-00923-0">[Paper]</a>  </p></td>
-    <td>&nbsp;</td>
-</tr>
-
-<tr>
-    <td width="32%"><img src="../images/research/Emission_HCM.PNG" width="200" height="140" class="papericon"></td>
-    <td width="68%"><p class="papertext"><strong>
-    Emission Inventory of Ho Chi Minh City </strong><br>
-    Nguyen trang, <strong>Prakhar Misra</strong>, Wataru Takeuchi <br>
-    <a href="https://acp.copernicus.org/articles/21/2795/2021/">[Paper]</a> </p></td>
-    <td>&nbsp;</td>
-</tr>
-
-<tr>
-    <td width="32%"><img src="../images/research/KBDIgif.gif" width="200" height="190" class="papericon"></td>
-    <td width="68%"><p class="papertext"><strong>
-    Remote sensing based KBDI Meteorological Drought Index </strong><br>
-    Wataru Takeuchi, <strong>Prakhar Misra</strong><br>
-    <a href="https://prakhar.users.earthengine.app/view/kbdithailand">[GEE]</a> </p></td>
-    <td>&nbsp;</td>
-</tr>
-
-</tbody></table> 
+   <p class="textsectionheader2"> </p>
+   <table width="100%">
+   <tbody>
+      <tr>
+         <td width="40%"><img src="../images/research/AQ_NOx.gif"  width="200" height="140" class="papericon"></td>
+         <td width="60%" class="papertext">
+            <p><strong>Top-down NOx Emission estimation with special focus on COVID-locakdown </strong></p>
+            <a href="https://www.nature.com/articles/s41598-021-87673-2">[Misra et al. 2021 Nat. Sci. Rep.]</a>
+            <a href="https://phys.org/news/2021-06-natural-anthropogenic-pollutants-air.html">[Media coverage, phys.org]</a>
+         </td>
+      </tr>
+      <tr>
+         <td width="40%"><img src="../images/research/AirRGB_India_20171215.gif"  width="200" height="140" class="papericon"></td>
+         <td width="60%" class="papertext">
+            <p><strong>Urban Air Quality (PM2.5) Indicator using Aerosol Optical Depth and Angstrom Exponent </strong></p>
+            <a href="http://www.mdpi.com/2072-4292/9/8/851">[Misra et al. 2017 Remote Sens.]</a>
+         </td>
+      </tr>
+      <tr>
+         <td width="40%"><img src="../images/research/AQ_EI.gif"  width="200" height="140" class="papericon"></td>
+         <td width="60%" class="papertext">
+            <p><strong>Contribution of Changing Land-use to Urban Air Pollution </strong></p>
+            <a href="https://link.springer.com/article/10.1007%2Fs11625-021-00923-0">[Misra et al. 2018 Atmosphere]</a>
+         </td>
+      </tr>
+      <tr>
+         <td width="40%"><img src="../images/research/Emission_HCM.PNG" width="200" height="140" class="papericon"></td>
+         <td width="60%" class="papertext">
+            <p><strong>Contribution of Changing Land-use to Urban Air Pollution </strong></p>
+            <a href="https://acp.copernicus.org/articles/21/2795/2021/">[Trang et al. 2021 Atmos. Chem. & Phy.]</a>
+         </td>
+      </tr>
+      <tr>
+         <td width="40%"><img src="../images/research/KBDIgif.gif" width="200" height="140" class="papericon"></td>
+         <td width="60%" class="papertext">
+            <p><strong>Remote sensing based KBDI Meteorological Drought Index </strong></p>
+            <a href="https://prakhar.users.earthengine.app/view/kbdithailand">[GEE app]</a>
+         </td>
+      </tr>
+   </tbody>
+ </table> 
 <br>
+
+
+
+
 
 
 Direction 3. Mapping human exposure and health risk
