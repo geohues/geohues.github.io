@@ -13,14 +13,14 @@ redirect_from:
    <table width="100%">
    <tbody>
       <tr>
-         <td width="15%"><p align="justify">2024 Feb. 01</td>
+         <td width="15%"><p align="justify"><dt>2024 Feb. 01</dt></p></td>
          <td width="85%" class="papertext">
             <img src="../images/news/2024/PXL_20240201.jpg"  width="500" alt="Dinner Party Image">
             <p>We enjoyed introduction seminar and a new year dinner party together!</p>
          </td>
       </tr>
       <tr>
-         <td width="15%"><p align="justify"><dt>2024 Jan. 01</dt></td>
+         <td width="15%"><p align="justify"><dt>2024 Jan. 01</dt></p></td>
          <td width="85%" class="papertext">
             <p>2 Global Patents awarded to our work "GROUND MOVEMENT ANALYSIS DEVICE AND GROUND MOVEMENT ANALYSIS METHOD", a ground deformation early warning systems using InSAR processing framework. It was developed at Synspective Inc. while working to identify the precursors of a major glacial lake outburst flood disaster in Nepal. We look forward to doing more solutions with your support.</p>
             <p>The patents can be viewed at: 
@@ -29,7 +29,7 @@ redirect_from:
          </td>
       </tr>
       <tr>
-         <td width="15%"><p align="justify"><dt>2023 Sep. 18</dt></td>
+         <td width="15%"><p align="justify"><dt>2023 Sep. 18</dt></p></td>
          <td width="85%" class="papertext">
             <img src="../images/news/2023/PXL-20230918-01.jpg" width="500" alt="Dinner Party Image">
             <img src="../images/news/2023/PXL-20230918-02.jpg" width="500" alt="Dinner Party Image">
