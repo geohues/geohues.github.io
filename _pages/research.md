@@ -82,6 +82,13 @@ Direction 1. Characterizing urban-rural land-use changes
             <a href="https://link.springer.com/article/10.1007%2Fs11625-021-00923-0">[Rahman et al. 2021 Sust. Sci.]</a>
          </td>
       </tr>
+      <tr>
+         <td width="40%"><img src="../images/research/pradeep23igarss.PNG"        width="200" height="140" class="papericon"></td>
+         <td width="60%" class="papertext">
+            <p><strong> SAR and Optical based differ-modality learning to identify logging </strong></p>
+            <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10281809">[Kambhampati et al. 2023 IGARSS]</a>
+         </td>
+      </tr>
    </tbody>
  </table> 
 <br>
@@ -183,6 +190,31 @@ Direction 3. Mapping human exposure and health risk
 
 Direction 4. Infrastructure health monitoring
 ===
+
+<hr>
+<!-- Direction 4 Infrastructure health  -->
+   <p class="textsectionheader2"> </p>
+   <table width="100%">
+   <tbody>
+      <tr>
+         <td width="40%"><img src="../images/research/bridgeAge.png"   width="200" height="140" class="papericon"></td>
+         <td width="60%" class="papertext">
+            <p><strong>Estimating construction year for bridges in developing country using NDWI time-series </strong></p>
+            <a href="https://www.mdpi.com/2412-3811/8/4/77#">[Sovisoth et al. 2023 Infrastructure]</a>
+         </td>
+      </tr>
+      <tr>
+         <td width="40%"><img src="../images/research/inverseVelocity.png   width="200" height="140" class="papericon"></td>
+         <td width="60%" class="papertext">
+            <p><strong>Detecting precursor onset of acceleration and time of failure in PS point time series using saliency and inverse velocity </strong></p>
+            <a href="https://2023.ieeeigarss.org/view_paper.php?PaperNum=3858#top">[Chavhan et al. 2023 IGARSS]</a>
+            <a href="https://patents.google.com/patent/WO2024004215A1/ja?oq=PCTJP2022026506">[Global patent 1]</a>
+            <a href="https://patents.google.com/patent/WO2024004216A1/ja?oq=PCTJP2022026508">[Global patent 2]</a>
+         </td>
+      </tr>
+   </tbody>
+ </table> 
+<br>
 
 <p></p> 
 <!-- Direction 4 Infrastructure health  -->
