@@ -12,7 +12,7 @@ redirect_from:
 <table width="100%">
    <tbody>
       <tr>
-         <td width="26%"><img src="../images/profile-HeadshotLarge.png" alt="Prakhar Misra" width="150" height="150" class="papericon"></td>
+         <td width="26%"><img src="../images/profile-HeadshotLarge.png" alt="Prakhar Misra" width="180" height="180" class="papericon"></td>
          <td width="74%"><p class="papertext"><strong><br>          
          Prakhar Misra</strong><br>
          I am currently Assistant Professor in the Geomatics Group, Department of Civil Engineering at Indian Institute of Technology, Roorkee and lead the GeoHUES lab. My research interests lie in urban environmental (such as anthropogenic emissions) issues emanating from socio-economic growth in developing countries by using satellite retrieved air pollution, and land-use datasets. I research end-to-end remote sensing dataset based framework to study policy scenario-based for eco-health impact. <br> 
@@ -33,7 +33,7 @@ redirect_from:
 <table width="100%">
    <tbody>
       <tr>
-         <td width="26%"><img src="../images/members/noImage.jpg" width="100" height="100" class="papericon"></td>
+         <td width="26%"><img src="../images/members/Pallavi.jpeg" width="180" height="180" class="papericon"></td>
          <td width="74%"><p class="papertext"><strong>
          Pallavi Chaurasia (2023~)</strong><br>
          Research Theme: Urban heat island and Urban air quality interactions <br>
@@ -45,7 +45,7 @@ redirect_from:
          -->
       </tr>
       <tr>
-         <td width="26%"><img src="../images/members/Kunal.jpg" width="100" height="100" class="papericon"></td>
+         <td width="26%"><img src="../images/members/Kunal.jpg" width="180" height="180" class="papericon"></td>
          <td width="74%"><p class="papertext"><strong>
          Kunal Bansal (2023~)</strong><br>
          Research Theme: 3 dimensional urbanization and decarcbonization  <br>
@@ -54,7 +54,7 @@ redirect_from:
          Hobbies: Swimming, Singing, Biography movies  </p></td>
       </tr>
       <tr>
-         <td width="26%"><img src="../images/members/Ravikant.jpg" width="100" height="100" class="papericon"></td>
+         <td width="26%"><img src="../images/members/Ravikant.jpg" width="180" height="180" class="papericon"></td>
          <td width="74%"><p class="papertext"><strong>
          Ravi Kant (2024~)</strong><br>
          Research Theme: TBA  <br>
@@ -74,7 +74,7 @@ redirect_from:
 <table width="100%">
    <tbody>
       <tr>
-         <td width="26%"><img src="../images/members/Sarvjeet.jpg" width="100" height="100" class="papericon"></td>
+         <td width="26%"><img src="../images/members/Sarvjeet.jpg" width="180" height="180" class="papericon"></td>
          <td width="74%"><p class="papertext"><strong>
          Sarvjeet Kumar (2022~)</strong><br>
          Research Theme: Farm abandonment in Himalayan cities villages  <br>
@@ -83,7 +83,7 @@ redirect_from:
          Hobbies: Swimming, Travelling </p></td>
       </tr>
       <tr>
-         <td width="26%"><img src="../images/members/Sayeed.jpg" width="100" height="100" class="papericon"></td>
+         <td width="26%"><img src="../images/members/Sayeed.jpg" width="180" height="180" class="papericon"></td>
          <td width="74%"><p class="papertext"><strong>
          Sayeed Anwar (2023~)</strong><br>
          Research Theme: Air pollution.  <br>
@@ -92,13 +92,34 @@ redirect_from:
          Hobbies: Swimming, Table Tennis, Badminton, Photography </p></td>
       </tr>
       <tr>
-         <td width="26%"><img src="../images/members/Avinash.jpg" width="100" height="100" class="papericon"></td>
+         <td width="26%"><img src="../images/members/Avinash.jpg" width="180" height="180" class="papericon"></td>
          <td width="74%"><p class="papertext"><strong>
          Avinash Mehta (2023~)</strong><br>
          Research Theme: Brick Kiln mapping  <br>
          Email: avinash_m[at]ce.iitr.ac.in <br>
          Background: B.Tech. (Civil Engineerig), RSR RCET Bhilai <br>
          Hobbies: Martial Arts, Travelling, Sci-fi movies </p></td>
+         </p></td>
+         <td></td>
+      </tr>
+   </tbody>
+</table> 
+<br>
+
+
+## Internship student
+ <!-- Intenship Student  -->
+<p class="textsectionheader2"> </p>
+<table width="100%">
+   <tbody>
+      <tr>
+         <td width="26%"><img src="../images/members/noImage.jpg" width="180" height="180" class="papericon"></td>
+         <td width="74%"><p class="papertext"><strong>
+         Aravind S (2024/3~2024/5)</strong><br>
+         Research Theme: Air quality in urbanizing regions  <br>
+         Email: aravindmario[at]gmail[dot]com <br>
+         Background: MSc Geogrpahy II year student at Central University of Punjab <br>
+         Hobbies:  </p></td>
          </p></td>
          <td></td>
       </tr>
