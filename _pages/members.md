@@ -8,8 +8,8 @@ redirect_from:
 ## Faculty/staff 
 
  <!-- Faculty/staff  -->
-<p class="textsectionheader2"> </p>
-<table width="100%">
+ <p class="textsectionheader2"> </p>
+ <table width="100%">
    <tbody>
       <tr>
          <td width="26%"><img src="../images/profile-HeadshotLarge.png" alt="Prakhar Misra" width="180" height="180" class="papericon"></td>
@@ -17,20 +17,21 @@ redirect_from:
          Prakhar Misra</strong><br>
          I am currently Assistant Professor in the Geomatics Group, Department of Civil Engineering at Indian Institute of Technology, Roorkee and lead the GeoHUES lab. My research interests lie in urban environmental (such as anthropogenic emissions) issues emanating from socio-economic growth in developing countries by using satellite retrieved air pollution, and land-use datasets. I research end-to-end remote sensing dataset based framework to study policy scenario-based for eco-health impact. <br> 
          My hometown is Lucknow, Uttar Pradesh and I am a big supporter for walkable cities, and enthusiastic about photography and long-distance cycling. <br> 
+         <br> 
          Email:  <span class="email">prakhar.misra[at]ce.iitr.ac.in</span> <br>         
          </p></td>
          <td></td>
       </tr>
    </tbody>
-</table> 
+ </table> 
 <br>
 
 
 
 ## Current PhD students
  <!-- PhD Student  -->
-<p class="textsectionheader2"> </p>
-<table width="100%">
+ <p class="textsectionheader2"> </p>
+ <table width="100%">
    <tbody>
       <tr>
          <td width="26%"><img src="../images/members/Pallavi.jpeg" width="180" height="180" class="papericon"></td>
@@ -64,32 +65,44 @@ redirect_from:
          <td></td>
       </tr>
    </tbody>
-</table> 
+ </table> 
 <br>
 
 
 ## Current Masters students
  <!-- Master Student  -->
-<p class="textsectionheader2"> </p>
-<table width="100%">
+   <p class="textsectionheader2"> </p>
+   <table width="100%">
    <tbody>
       <tr>
          <td width="26%"><img src="../images/members/Sarvjeet.jpg" width="180" height="180" class="papericon"></td>
-         <td width="74%"><p class="papertext"><strong>
-         Sarvjeet Kumar (2022~)</strong><br>
-         Research Theme: Farm abandonment in Himalayan cities villages  <br>
-         Email: sarvjeet_k[at]ce.iitr.ac.in <br>
-         Background: B.Tech. (Civil Enginnering), NSUT west campus <br>
-         Hobbies: Swimming, Travelling </p></td>
+         <td width="74%" class="papertext">
+            <p><strong>Sarvjeet Kumar (2022~)</strong></p>
+            <p>Research Theme: Farm abandonment in Himalayan cities villages</p>
+            <p>Email: sarvjeet_k[at]ce.iitr.ac.in </p>
+            <p>Background: B.Tech. (Civil Enginnering), NSUT west campus </p>
+            <p>Hobbies: Swimming, Travelling </p>
+         </td>
       </tr>
       <tr>
          <td width="26%"><img src="../images/members/Sayeed.jpg" width="180" height="180" class="papericon"></td>
-         <td width="74%"><p class="papertext"><strong>
-         Sayeed Anwar (2023~)</strong><br>
-         Research Theme: Air pollution.  <br>
-         Email: sayeed_a[at]ce.iitr.ac.in <br>
-         Background: Bachelor of Planning, SPA Bhopal <br>
-         Hobbies: Swimming, Table Tennis, Badminton, Photography </p></td>
+         <td width="74%" class="papertext">
+            <p><strong>Sayeed Anwar (2023~)</strong></p>
+            <p>Research Theme: Air pollution</p>
+            <p>Email: sayeed_a[at]ce.iitr.ac.in </p>
+            <p>Background: Bachelor of Planning, SPA Bhopal </p>
+            <p>Hobbies: Swimming, Table Tennis, Badminton, Photography </p>
+         </td>
+      </tr>
+      <tr>
+         <td width="26%"><img src="../images/members/Sayeed.jpg" width="180" height="180" class="papericon"></td>
+         <td width="74%" class="papertext">
+            <p><strong>Avinash Mehta (2023~)</strong></p>
+            <p>Research Theme: Brick Kiln</p>
+            <p>Email: avinash_m[at]ce.iitr.ac.in </p>
+            <p>Background: B.Tech. (Civil Engineerig), RSR RCET Bhilai </p>
+            <p>Hobbies: Martial Arts, Travelling, Sci-fi movies </p>
+         </td>
       </tr>
       <tr>
          <td width="26%"><img src="../images/members/Avinash.jpg" width="180" height="180" class="papericon"></td>
@@ -103,14 +116,14 @@ redirect_from:
          <td></td>
       </tr>
    </tbody>
-</table> 
+ </table> 
 <br>
 
 
 ## Internship student
  <!-- Intenship Student  -->
-<p class="textsectionheader2"> </p>
-<table width="100%">
+ <p class="textsectionheader2"> </p>
+ <table width="100%">
    <tbody>
       <tr>
          <td width="26%"><img src="../images/members/noImage.jpg" width="180" height="180" class="papericon"></td>
@@ -124,7 +137,7 @@ redirect_from:
          <td></td>
       </tr>
    </tbody>
-</table> 
+ </table> 
 <br>
 
 
