@@ -26,7 +26,7 @@ Direction 1. Characterizing urban-rural land-use changes
 ===
 
 <p align="center">
-    <img src="../images/researchdirection1.png" width="500" height="400">
+    <img src="../images/researchdirection1.png" width="600" height="500">
 </p>
 
 
@@ -49,21 +49,27 @@ Direction 1. Characterizing urban-rural land-use changes
          <td width="60%" class="papertext">
             <p><strong>Digital Building Height extraction from open Digital Surface Models</strong></p>
             <a href="https://www.mdpi.com/2072-4292/10/12/2008">[Misra et al. 2018 Remote Sens.]</a>
+            <a href="https://github.com/mprakhar/DSM2DTM">[Github]</a>
+            <a href="https://prakhar.users.earthengine.app/view/urban-morphology---ludhiana">[GEE App]</a>
+         </td>
+      </tr>
+      <tr>
+         <td width="40%"><img src="../images/research/Urban_land_use.PNG"     width="200" height="140" class="papericon"></td>
+         <td width="60%" class="papertext">
+            <p><strong>Mapping Urban Land-use using Building Height and Nighttime Light</strong></p>
+            <a href="https://www.researchgate.net/publication/333916547_A_NOVEL_TECHNIQUE_FOR_ESTIMATING_EXPANSION_OF_RESIDENTIAL_COMMERCIAL_AND_INDUSTRIAL_REGIONS_IN_INDIAN_MEGACITIES">[ResearchGate]</a> <a href="https://prakhar.users.earthengine.app/view/urban-morphology---ludhiana">[GEE]</a>
+         </td>
+      </tr>
+      <tr>
+         <td width="40%"><img src="../images/research/UHI_Dhaka.PNG"      width="200" height="140" class="papericon"></td>
+         <td width="60%" class="papertext">
+            <p><strong>Building-density and Urban Heat Island</strong></p>
+            <a href="https://www.mdpi.com/2072-4292/12/7/1191">[Rahman et al 2020 Remote Sens.]</a>
          </td>
       </tr>
    </tbody>
  </table> 
 <br>
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -77,14 +83,7 @@ Direction 1. Characterizing urban-rural land-use changes
  <table width="100%" border="0">
    <tbody>
 
-<tr>
-    <td width="32%"><img src="../images/research/LU_brickkiln.PNG" width="200" height="140" class="papericon"></td>
-    <td width="68%"><p class="papertext"><strong>
-    Identification of Brick Kilns using Sentinel-2 Imagery</strong><br>
-    <strong>Prakhar Misra</strong>, Ram Avtar Group, Sachiko Hayashida, Wataru Takeuchi  <br>
-    <a href="https://www.mdpi.com/2220-9964/9/9/544">[Paper]</a>  </p></td>
-    <td>&nbsp;</td>
-</tr>
+
 
 <tr>
     <td width="32%"><img src="../images/research/Zoning_Dhaka.PNG" width="200" height="140" class="papericon"></td>    
@@ -104,23 +103,7 @@ Direction 1. Characterizing urban-rural land-use changes
     <td>&nbsp;</td>
 </tr>
 
-<tr>
-    <td width="32%"><img src="../images/research/Urban_land_use.PNG" width="200" height="140" class="papericon"></td>    
-    <td width="68%"><p class="papertext"><strong>
-    Mapping Urban Land-use using Building Height and Nighttime Light</strong><br>
-    <strong>Prakhar Misra</strong>, Wataru Takeuchi <br>
-    <a href="https://www.researchgate.net/publication/333916547_A_NOVEL_TECHNIQUE_FOR_ESTIMATING_EXPANSION_OF_RESIDENTIAL_COMMERCIAL_AND_INDUSTRIAL_REGIONS_IN_INDIAN_MEGACITIES">[ResearchGate]</a> <a href="https://prakhar.users.earthengine.app/view/urban-morphology---ludhiana">[GEE]</a> </p></td>
-    <td>&nbsp;</td>
-</tr>
 
-<tr>
-    <td width="32%"><img src="../images/research/AW3D30_nDSM.PNG" width="200" height="140" class="papericon"></td>    
-    <td width="68%"><p class="papertext"><strong>
-    Digital Building Height extraction from open Digital Surface Models </strong><br>
-    <strong>Prakhar Misra</strong>, Ram Avtar, Wataru Takeuchi <br>
-    <a href="https://www.mdpi.com/2072-4292/10/12/2008">[Publication]</a> <a href="https://github.com/mprakhar/DSM2DTM">[Github]</a> <a href="https://prakhar.users.earthengine.app/view/urban-morphology---ludhiana">[GEE App]</a> </p></td>
-    <td>&nbsp;</td>
-</tr>
 
 <tr>
     <td width="32%"><img src="../images/research/Agro_Vietnam2.PNG" width="200" height="140" class="papericon"></td>    
