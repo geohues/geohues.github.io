@@ -95,7 +95,7 @@ redirect_from:
          </td>
       </tr>
       <tr>
-         <td width="26%"><img src="../images/members/Sayeed.jpg" width="180" height="180" class="papericon"></td>
+         <td width="26%"><img src="../images/members/Avinash.jpg" width="180" height="180" class="papericon"></td>
          <td width="74%" class="papertext">
             <p><strong>Avinash Mehta (2023~)</strong></p>
             <p>Research Theme: Brick Kiln</p>
@@ -103,17 +103,6 @@ redirect_from:
             <p>Background: B.Tech. (Civil Engineerig), RSR RCET Bhilai </p>
             <p>Hobbies: Martial Arts, Travelling, Sci-fi movies </p>
          </td>
-      </tr>
-      <tr>
-         <td width="26%"><img src="../images/members/Avinash.jpg" width="180" height="180" class="papericon"></td>
-         <td width="74%"><p class="papertext"><strong>
-         Avinash Mehta (2023~)</strong><br>
-         Research Theme: Brick Kiln mapping  <br>
-         Email: avinash_m[at]ce.iitr.ac.in <br>
-         Background: B.Tech. (Civil Engineerig), RSR RCET Bhilai <br>
-         Hobbies: Martial Arts, Travelling, Sci-fi movies </p></td>
-         </p></td>
-         <td></td>
       </tr>
    </tbody>
  </table> 
