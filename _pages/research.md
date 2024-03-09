@@ -41,8 +41,14 @@ Direction 1. Characterizing urban-rural land-use changes
          <td width="40%"><img src="../images/research/LU_brickkiln.PNG"  width="200" height="140" class="papericon"></td>
          <td width="60%" class="papertext">
             <p><strong>Identification of Brick Kilns using Sentinel-2 Imagery</strong></p>
-            <p><strong>Prakhar Misra</strong>, Ram Avtar Group, Sachiko Hayashida, Wataru Takeuchi</p>
-            <a href="https://www.mdpi.com/2220-9964/9/9/544">[Paper]</a>
+            <a href="https://www.mdpi.com/2220-9964/9/9/544">[Misra et al. 2020 ISPRS IJGI]</a>
+         </td>
+      </tr>
+      <tr>
+         <td width="40%"><img src="../images/research/AW3D30_nDSM.PNG"    width="200" height="140" class="papericon"></td>
+         <td width="60%" class="papertext">
+            <p><strong>Digital Building Height extraction from open Digital Surface Models</strong></p>
+            <a href="https://www.mdpi.com/2072-4292/10/12/2008">[Misra et al. 2018 Remote Sens.]</a>
          </td>
       </tr>
    </tbody>
