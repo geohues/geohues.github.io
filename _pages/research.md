@@ -15,7 +15,7 @@ author_profile: true
 </p>
 
 
- Main research themes:
+ Research Directions:
 1. Land-use change: Characteristics of volumetric urban growth, building functions as well as rural land-use change. How are these shaped by socio-economic drivers?
 2. Environmental impact: Spatio-temporal variations of pollutants, trace gas concentrations and emissions? How physical land-processes regluate this? 
 3. Health impacts: Environmental and socio-economic factors influencing individual exposure and vulnerability? Modelling acute and chronic exposure/impacts by combining satellite and portable sensors measurements.
@@ -67,64 +67,22 @@ Direction 1. Characterizing urban-rural land-use changes
             <a href="https://www.mdpi.com/2072-4292/12/7/1191">[Rahman et al 2020 Remote Sens.]</a>
          </td>
       </tr>
+      <tr>
+         <td width="40%"><img src="../images/research/Agro_Vietnam2.PNG"       width="200" height="140" class="papericon"></td>
+         <td width="60%" class="papertext">
+            <p><strong>Identification of Rice-crop Calendar </strong></p>
+            <a href="https://www.mdpi.com/2220-9964/8/5/211">[Minh et al. 2019 ISPRS IJGI]</a>
+         </td>
+      </tr>
+      <tr>
+         <td width="40%"><img src="../images/research/Zoning_Dhaka.PNG"        width="200" height="140" class="papericon"></td>
+         <td width="60%" class="papertext">
+            <p><strong> Identification of Conformity of Urban Land-use to Zoning Regulations </strong></p>
+            <a href="https://link.springer.com/article/10.1007%2Fs11625-021-00923-0">[Rahman et al. 2021 Sust. Sci.]</a>
+         </td>
+      </tr>
    </tbody>
  </table> 
-<br>
-
-
-
-
-
-
-
-<hr>
- <!-- Direction 1 Urban land-use  -->
- <p class="textsectionheader2"> </p>
- <table width="100%" border="0">
-   <tbody>
-
-
-
-<tr>
-    <td width="32%"><img src="../images/research/Zoning_Dhaka.PNG" width="200" height="140" class="papericon"></td>    
-    <td width="68%"><p class="papertext"><strong>
-    Identification of Conformity of Urban Land-use to Zoning Regulations</strong><br>
-    <a href="https://ramenvjnu.wixsite.com/mysite">Ram Avtar Group</a>, <strong>Prakhar Misra</strong>,  <br>
-    <a href="https://link.springer.com/article/10.1007%2Fs11625-021-00923-0">[Paper]</a>  </p></td>
-    <td>&nbsp;</td>
-</tr>
-
-<tr>
-    <td width="32%"><img src="../images/research/UHI_Dhaka.PNG" width="200" height="140" class="papericon"></td>    
-    <td width="68%"><p class="papertext"><strong>
-    Mapping Impact of Building-density and Building height on Urban Heat Island</strong><br>
-    <a href="https://ramenvjnu.wixsite.com/mysite">Ram Avtar Group</a>, <strong>Prakhar Misra</strong>,  <br>
-    <a href="https://www.mdpi.com/2072-4292/12/7/1191">[Paper]</a>  </p></td>
-    <td>&nbsp;</td>
-</tr>
-
-
-
-<tr>
-    <td width="32%"><img src="../images/research/Agro_Vietnam2.PNG" width="200" height="140" class="papericon"></td>    
-    <td width="68%"><p class="papertext"><strong>
-    Identification of Rice-crop Calendar </strong><br>
-    H.V. Minh, <a href="https://ramenvjnu.wixsite.com/mysite">Ram Avtar Group</a>, <strong>Prakhar Misra</strong><br>
-    <a href="https://www.mdpi.com/2220-9964/8/5/211">[Paper]</a> </p></td>
-    <td>&nbsp;</td>
-</tr>
-
-<tr>
-    <td width="32%"><img src="../images/research/AQ_NTL.PNG" width="200" height="180" class="papericon"></td>
-    <td width="68%"><p class="papertext"><strong>
-    Clustering by Nighttime light and Air Pollution </strong><br>
-    <strong>Prakhar Misra</strong>, Wataru Takeuchi <br>
-    <!--<a href="https://www.mdpi.com/2072-4292/10/12/2008">[Publication]</a> <a href="https://github.com/mprakhar/DSM2DTM">[Github]</a> <a href="https://prakhar.users.earthengine.app/view/urban-morphology---ludhiana">[GEE App]</a> 
-        -->
-    </p></td>
-    <td>&nbsp;</td>
-</tr>
-</tbody></table> 
 <br>
 
 
