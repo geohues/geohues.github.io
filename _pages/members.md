@@ -1,6 +1,6 @@
 ---
 permalink: /members/
-title : "Lab members"
+title : "Members"
 author_profile: true
 redirect_from: 
 ---
