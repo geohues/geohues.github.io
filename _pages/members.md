@@ -12,7 +12,7 @@ redirect_from:
  <table width="100%">
    <tbody>
       <tr>
-         <td width="26%"><img src="../images/profile-HeadshotLarge.jpg" width="180" height="180" class="papericon"></td>
+         <td width="26%"><img src="../images/members/profile-HeadshotLarge.png" width="180" height="180" class="papericon"></td>
          <td width="74%" class="papertext">
             <p><strong>Prakhar Misra</strong></p>
             <p> I am currently Assistant Professor in the Geomatics Group, Department of Civil Engineering at Indian Institute of Technology, Roorkee and lead the GeoHUES lab. My research interests lie in studying the urban environmental (such as anthropogenic emissions) issues emanating from socio-economic growth in developing countries by using satellite retrieved air pollution, and land-use datasets, GIS and other sensors. My goal is end-to-end remote sensing evidence and scenario based policy framework for mitigating eco-health impact.</p>
@@ -31,7 +31,7 @@ redirect_from:
    <table width="100%">
    <tbody>
       <tr>
-         <td width="26%"><img src="../images/members/Pallavi.jpg" width="180" height="180" class="papericon"></td>
+         <td width="26%"><img src="../images/members/Pallavi.jpeg" width="180" height="180" class="papericon"></td>
          <td width="74%" class="papertext">
             <p><strong>Pallavi Chaurasia (2023~)</strong></p>
             <p>Research Theme: Urban heat island and Urban air quality interactions</p>
@@ -51,7 +51,7 @@ redirect_from:
          </td>
       </tr>
       <tr>
-         <td width="26%"><img src="../images/members/Ravi.jpg" width="180" height="180" class="papericon"></td>
+         <td width="26%"><img src="../images/members/Ravikant.jpg" width="180" height="180" class="papericon"></td>
          <td width="74%" class="papertext">
             <p><strong>Ravi Kant (2024~)</strong></p>
             <p>Research Theme: TBA</p>
