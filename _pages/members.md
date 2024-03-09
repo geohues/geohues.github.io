@@ -101,7 +101,7 @@ redirect_from:
             <p>Research Theme: Brick Kiln</p>
             <p>Email: avinash_m[at]ce.iitr.ac.in </p>
             <p>Background: B.Tech. (Civil Engineerig), RSR RCET Bhilai </p>
-            <p>Hobbies: Martial Arts, Travelling, Sci-fi movies </p>
+            <p>Hobbies:  Martial Arts, Travelling, Sci-fi movies </p>
          </td>
       </tr>
    </tbody>
