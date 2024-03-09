@@ -12,57 +12,53 @@ redirect_from:
  <table width="100%">
    <tbody>
       <tr>
-         <td width="26%"><img src="../images/profile-HeadshotLarge.png" alt="Prakhar Misra" width="180" height="180" class="papericon"></td>
-         <td width="74%"><p class="papertext"><strong><br>          
-         Prakhar Misra</strong><br>
-         I am currently Assistant Professor in the Geomatics Group, Department of Civil Engineering at Indian Institute of Technology, Roorkee and lead the GeoHUES lab. My research interests lie in urban environmental (such as anthropogenic emissions) issues emanating from socio-economic growth in developing countries by using satellite retrieved air pollution, and land-use datasets. I research end-to-end remote sensing dataset based framework to study policy scenario-based for eco-health impact. <br> 
-         My hometown is Lucknow, Uttar Pradesh and I am a big supporter for walkable cities, and enthusiastic about photography and long-distance cycling. <br> 
-         <br> 
-         Email:  <span class="email">prakhar.misra[at]ce.iitr.ac.in</span> <br>         
-         </p></td>
-         <td></td>
+         <td width="26%"><img src="../images/profile-HeadshotLarge.jpg" width="180" height="180" class="papericon"></td>
+         <td width="74%" class="papertext">
+            <p><strong>Prakhar Misra</strong></p>
+            <p> I am currently Assistant Professor in the Geomatics Group, Department of Civil Engineering at Indian Institute of Technology, Roorkee and lead the GeoHUES lab. My research interests lie in urban environmental (such as anthropogenic emissions) issues emanating from socio-economic growth in developing countries by using satellite retrieved air pollution, and land-use datasets. I research end-to-end remote sensing dataset based framework to study policy scenario-based for eco-health impact.</p>
+            <p>I am a big supporter for walkable cities, and enthusiastic about photography and long-distance cycling. My hometown is Lucknow, Uttar Pradesh</p>
+            <p>Email: prakhar.misra[at]ce.iitr.ac.in </p>
+         </td>
       </tr>
    </tbody>
  </table> 
 <br>
 
 
-
 ## Current PhD students
  <!-- PhD Student  -->
- <p class="textsectionheader2"> </p>
- <table width="100%">
+   <p class="textsectionheader2"> </p>
+   <table width="100%">
    <tbody>
       <tr>
-         <td width="26%"><img src="../images/members/Pallavi.jpeg" width="180" height="180" class="papericon"></td>
-         <td width="74%"><p class="papertext"><strong>
-         Pallavi Chaurasia (2023~)</strong><br>
-         Research Theme: Urban heat island and Urban air quality interactions <br>
-         Email: pallavi_c[at]ce.iitr.ac.in <br>
-         Background: M.Tech. (Geomatics),  NIT Warangal <br>
-         Hobbies: Travel, Dance, Reading Books </p></td>
-         <!---  papers published
-         <a href="./document/Mapping PM2.5 in Indian cities handout.pdf">[Paper]</a>   
-         -->
+         <td width="26%"><img src="../images/members/Pallavi.jpg" width="180" height="180" class="papericon"></td>
+         <td width="74%" class="papertext">
+            <p><strong>Pallavi Chaurasia (2023~)</strong></p>
+            <p>Research Theme: Urban heat island and Urban air quality interactions</p>
+            <p>Email: pallavi_c[at]ce.iitr.ac.in </p>
+            <p>Background:  M.Tech. (Geomatics),  NIT Warangal </p>
+            <p>Hobbies: Travel, Dance, Reading Books </p>
+         </td>
       </tr>
       <tr>
          <td width="26%"><img src="../images/members/Kunal.jpg" width="180" height="180" class="papericon"></td>
-         <td width="74%"><p class="papertext"><strong>
-         Kunal Bansal (2023~)</strong><br>
-         Research Theme: 3 dimensional urbanization and decarcbonization  <br>
-         Email: kunal_b[at]ce.iitr.ac.in <br>
-         Background: M.Tech. (Geomatics) , IIT Roorkee<br>
-         Hobbies: Swimming, Singing, Biography movies  </p></td>
+         <td width="74%" class="papertext">
+            <p><strong>Kunal Bansal (2023~)</strong></p>
+            <p>Research Theme: 3 dimensional urbanization and decarcbonization</p>
+            <p>Email: kunal_b[at]ce.iitr.ac.in </p>
+            <p>Background: M.Tech. (Geomatics) , IIT Roorkee </p>
+            <p>Hobbies: Swimming, Singing, Biography movies  </p>
+         </td>
       </tr>
       <tr>
-         <td width="26%"><img src="../images/members/Ravikant.jpg" width="180" height="180" class="papericon"></td>
-         <td width="74%"><p class="papertext"><strong>
-         Ravi Kant (2024~)</strong><br>
-         Research Theme: TBA  <br>
-         Email: ravi_k[at]ce.iitr.ac.in <br>
-         Background: M. Tech. (Remote Sensing and GIS), IIRS Dehradun <br>
-         Hobbies: Table Tennis, Chess and Photography </p></td>
-         <td></td>
+         <td width="26%"><img src="../images/members/Ravi.jpg" width="180" height="180" class="papericon"></td>
+         <td width="74%" class="papertext">
+            <p><strong>Ravi Kant (2024~)</strong></p>
+            <p>Research Theme: TBA</p>
+            <p>Email: ravi_k[at]ce.iitr.ac.in </p>
+            <p>Background: M. Tech. (Remote Sensing and GIS), IIRS Dehradun </p>
+            <p>Hobbies: Table Tennis, Chess and Photography</p>
+         </td>
       </tr>
    </tbody>
  </table> 
@@ -116,14 +112,12 @@ redirect_from:
    <tbody>
       <tr>
          <td width="26%"><img src="../images/members/noImage.jpg" width="180" height="180" class="papericon"></td>
-         <td width="74%"><p class="papertext"><strong>
-         Aravind S (2024/3~2024/5)</strong><br>
-         Research Theme: Air quality in urbanizing regions  <br>
-         Email: aravindmario[at]gmail[dot]com <br>
-         Background: MSc Geogrpahy II year student at Central University of Punjab <br>
-         Hobbies:  </p></td>
-         </p></td>
-         <td></td>
+         <td width="74%" class="papertext">
+            <p><strong>Aravind S (2024/3~2024/5)</strong></p>
+            <p>Research Theme: Air quality in urbanizing regions </p>
+            <p>Email: aravindmario[at]gmail[dot]com </p>
+            <p>Background: MSc Geogrpahy II year student at Central University of Punjab </p>
+         </td>
       </tr>
    </tbody>
  </table> 
