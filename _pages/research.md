@@ -7,7 +7,8 @@ author_profile: true
 
  
  
- At the **GeoHUES lab** we develop and exploit environmental remote sensing and geospatial techniques for investigating human-environment interactions pertaining to the nexus of land-use activities, environment and human impacts. We investigate driving mechanisms of land-use change and consequence of land-use changes on the environment. This involves characterizing spatio-temporal urban-rural land-use morphology, developing dynamic top-down and bottom-up air pollution emission inventories, and assessing human health impacts as shown in below. Our research spans multiple data modalities such as space-borne optical and SAR sensors, UAV-borne sensors, low-cost air quality monitoring sensors and social sensing with process-based models. A portion of research is also dedicated towards infrastructure monitoring. 
+ We develop and exploit environmental remote sensing and geospatial techniques for investigating human-environment interactions pertaining to the nexus of land-use activities, environment and human impacts. We investigate driving mechanisms of land-use change and consequence of land-use changes on the environment. This involves characterizing spatio-temporal urban-rural land-use morphology, developing dynamic top-down and bottom-up air pollution emission inventories, and assessing human health impacts as shown in below. <br>
+ Our research spans multiple data modalities such as space-borne optical and SAR sensors, UAV-borne sensors, low-cost air quality monitoring sensors and social sensing with process-based models. A portion of research is also dedicated towards infrastructure monitoring. 
 
 <p align="center">
    <img src="../images/research-flow.png" width="500" height="400">
@@ -27,6 +28,42 @@ Direction 1. Characterizing urban-rural land-use changes
 <p align="center">
     <img src="../images/researchdirection1.png" width="500" height="400">
 </p>
+
+
+
+
+<hr>
+ <!-- Direction 1 Urban land-use  -->
+   <p class="textsectionheader2"> </p>
+   <table width="100%">
+   <tbody>
+      <tr>
+         <td width="40%"><img src="../images/research/LU_brickkiln.PNG"  width="200" height="140" class="papericon"></td>
+         <td width="60%" class="papertext">
+            <p><strong>Identification of Brick Kilns using Sentinel-2 Imagery</strong></p>
+            <p><strong>Prakhar Misra</strong>, Ram Avtar Group, Sachiko Hayashida, Wataru Takeuchi</p>
+            <a href="https://www.mdpi.com/2220-9964/9/9/544">[Paper]</a>
+         </td>
+      </tr>
+   </tbody>
+ </table> 
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <hr>
  <!-- Direction 1 Urban land-use  -->
