@@ -50,7 +50,7 @@ redirect_from:
          Kunal Bansal (2023~)</strong><br>
          Research Theme: 3 dimensional urbanization and decarcbonization  <br>
          Email: kunal_b[at]ce.iitr.ac.in <br>
-         Background: M.Tech. (Geomatics), IIT Roorkee <br>
+         Background: M.Tech. (Geomatics) , IIT Roorkee<br>
          Hobbies: Swimming, Singing, Biography movies  </p></td>
       </tr>
       <tr>
