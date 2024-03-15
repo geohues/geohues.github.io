@@ -13,6 +13,17 @@ redirect_from:
    <table width="100%">
    <tbody>
       <tr>
+         <td width="15%"><p align="justify"><dt>2024 Mar. 11</dt></p></td>
+         <td width="85%" class="papertext">
+            <img src="../images/news/2024/240312-1.jpg"  width="500" alt="Conference photos">
+            <img src="../images/news/2024/240312-2.jpg"  width="250" alt="Conference photos">
+            <img src="../images/news/2024/240311-1.jpg"  width="250" alt="Conference photos">
+            <img src="../images/news/2024/240311-2.jpg"  width="250" alt="Conference photos">
+            <img src="../images/news/2024/240311-3.jpg"  width="250" alt="Conference photos">
+            <p>International Conference on Geomatics in Civil Engineering 2024 (https://icgce-2024.iitr.ac.in/) was organized successfully. About 50 papers were presented through oral/posters. Pallavi, Sarvjeet and Aravind also presented their works and received feedback. </p>
+         </td>
+      </tr>
+      <tr>
          <td width="15%"><p align="justify"><dt>2024 Feb. 01</dt></p></td>
          <td width="85%" class="papertext">
             <img src="../images/news/2024/PXL_20240201.jpg"  width="500" alt="Dinner Party Image">
