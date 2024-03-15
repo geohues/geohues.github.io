@@ -20,7 +20,7 @@ redirect_from:
             <img src="../images/news/2024/240311-1.jpg"  width="250" alt="Conference photos">
             <img src="../images/news/2024/240311-2.jpg"  width="250" alt="Conference photos">
             <img src="../images/news/2024/240311-3.jpg"  width="250" alt="Conference photos">
-            <p>International Conference on Geomatics in Civil Engineering 2024 (https://icgce-2024.iitr.ac.in/) was organized successfully. About 50 papers were presented through oral/posters. Pallavi, Sarvjeet and Aravind also presented their works and received feedback. </p>
+            <p>International Conference on Geomatics in Civil Engineering 2024 (https://icgce-2024.iitr.ac.in/) was organized successfully, thanks to support of the MTech students. About 50 papers were presented through oral/posters. Pallavi, Sarvjeet and Aravind also presented their works and received feedback. </p>
          </td>
       </tr>
       <tr>
