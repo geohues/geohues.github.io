@@ -13,7 +13,7 @@ redirect_from:
    <table width="100%">
    <tbody>
       <tr>
-         <td width="15%"><p align="justify"><dt>2024 May 17</dt></p></td>
+         <td width="15%"><p align="justify"><dt>2024 May 22</dt></p></td>
          <td width="85%" class="papertext">
             <img src="../images/news/2024/240522-1.jpg"  width="500" alt="Welcome">
             <p>We held a party to celebrate Sarvjeet defending his MTech thesis, completion of Aravind's internship and welcoming the new internship students, Himani and Firose. </p>
