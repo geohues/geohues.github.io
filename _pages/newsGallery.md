@@ -27,6 +27,15 @@ redirect_from:
             <p>Dr. Taveen Kapoor (sites.google.com/view/taveensk), post-doctoral researcher at Washington University in St Louis kindly visited our lab. He presented on "Understanding Carbonaceous Aerosol Constituents and Optical Properties in India". Lab members presented their research topics to him and received candid advice. </p>
          </td>
       </tr>
+      </tr>
+      <tr>
+         <td width="15%"><p align="justify"><dt>2024 May 14</dt></p></td>
+         <td width="85%" class="papertext">
+            <img src="../images/news/2024/240514-1.jpg"  width="500" alt="uav-landslide">
+            <img src="../images/news/2024/240514-3.jpg"  width="500" alt="uav-landslide">
+            <p>Dr. Prakhar Misra gave a lecture titled "GNSS-datums-projections" at the "UAV for landslide" workshop organized at Geospatial Engineering Group (May 13-15). </p>
+         </td>
+      </tr>
       <tr>
          <td width="15%"><p align="justify"><dt>2024 Mar. 11</dt></p></td>
          <td width="85%" class="papertext">
