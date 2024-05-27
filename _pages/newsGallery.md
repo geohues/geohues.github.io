@@ -39,6 +39,13 @@ redirect_from:
          </td>
       </tr>
       <tr>
+         <td width="15%"><p align="justify"><dt>2024 Mar 06</dt></p></td>
+         <td width="85%" class="papertext">
+            <img src="../images/news/2024/240306-1.jpg"  width="500" alt="Geospatial Labs">
+            <p>The students are intently working the total station in the lab exercises. </p>
+         </td>
+      </tr>
+      <tr>
          <td width="15%"><p align="justify"><dt>2024 Feb. 01</dt></p></td>
          <td width="85%" class="papertext">
             <img src="../images/news/2024/PXL_20240201.jpg"  width="500" alt="Dinner Party Image">
