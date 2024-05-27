@@ -31,7 +31,7 @@ redirect_from:
    <table width="100%">
    <tbody>
       <tr>
-         <td width="26%"><img src="../images/members/Pallavi.jpeg" width="180" height="180" class="papericon"></td>
+         <td width="26%"><img src="../images/members/D-Pallavi.jpeg" width="180" height="180" class="papericon"></td>
          <td width="74%" class="papertext">
             <p><strong>Pallavi Chaurasia (2023~)</strong></p>
             <p>Research Theme: Urban heat island and Urban air quality interactions</p>
@@ -41,7 +41,7 @@ redirect_from:
          </td>
       </tr>
       <tr>
-         <td width="26%"><img src="../images/members/Kunal.jpg" width="180" height="180" class="papericon"></td>
+         <td width="26%"><img src="../images/members/D-Kunal.jpg" width="180" height="180" class="papericon"></td>
          <td width="74%" class="papertext">
             <p><strong>Kunal Bansal (2023~)</strong></p>
             <p>Research Theme: 3 dimensional urbanization and decarcbonization</p>
@@ -51,7 +51,7 @@ redirect_from:
          </td>
       </tr>
       <tr>
-         <td width="26%"><img src="../images/members/Ravikant.jpg" width="180" height="180" class="papericon"></td>
+         <td width="26%"><img src="../images/members/D-Ravikant.jpg" width="180" height="180" class="papericon"></td>
          <td width="74%" class="papertext">
             <p><strong>Ravi Kant (2024~)</strong></p>
             <p>Research Theme: TBA</p>
@@ -71,7 +71,7 @@ redirect_from:
    <table width="100%">
    <tbody>
       <tr>
-         <td width="26%"><img src="../images/members/Sarvjeet.jpg" width="180" height="180" class="papericon"></td>
+         <td width="26%"><img src="../images/members/M-Sarvjeet.jpg" width="180" height="180" class="papericon"></td>
          <td width="74%" class="papertext">
             <p><strong>Sarvjeet Kumar (2022~)</strong></p>
             <p>Research Theme: Farm abandonment in Himalayan cities villages</p>
@@ -81,7 +81,7 @@ redirect_from:
          </td>
       </tr>
       <tr>
-         <td width="26%"><img src="../images/members/Sayeed.jpg" width="180" height="180" class="papericon"></td>
+         <td width="26%"><img src="../images/members/M-Sayeed.jpg" width="180" height="180" class="papericon"></td>
          <td width="74%" class="papertext">
             <p><strong>Sayeed Anwar (2023~)</strong></p>
             <p>Research Theme: Air pollution</p>
@@ -91,7 +91,7 @@ redirect_from:
          </td>
       </tr>
       <tr>
-         <td width="26%"><img src="../images/members/Avinash.jpg" width="180" height="180" class="papericon"></td>
+         <td width="26%"><img src="../images/members/M-Avinash.jpg" width="180" height="180" class="papericon"></td>
          <td width="74%" class="papertext">
             <p><strong>Avinash Mehta (2023~)</strong></p>
             <p>Research Theme: Brick Kiln</p>
@@ -111,7 +111,7 @@ redirect_from:
  <table width="100%">
    <tbody>
       <tr>
-         <td width="26%"><img src="../images/members/noImage.jpg" width="180" height="180" class="papericon"></td>
+         <td width="26%"><img src="../images/members/I-Aravind.jpg" width="180" height="180" class="papericon"></td>
          <td width="74%" class="papertext">
             <p><strong>Aravind S (2024/3~2024/5)</strong></p>
             <p>Research Theme: Air quality in urbanizing regions </p>
