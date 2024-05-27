@@ -13,6 +13,14 @@ redirect_from:
    <table width="100%">
    <tbody>
       <tr>
+         <td width="15%"><p align="justify"><dt>2024 May 17</dt></p></td>
+         <td width="85%" class="papertext">
+            <img src="../images/news/2024/240517-1.jpg"  width="500" alt="Dr Taveen Kapoor">
+            <img src="../images/news/2024/240517-2.jpg"  width="250" alt="Dr Taveen Kapoor">
+            <p>Dr. Taveen Kapoor (sites.google.com/view/taveensk), post-doctoral research at Washington University in St Louis kindly visited our lab. He presented on "Understanding Carbonaceous Aerosol Constituents and Optical Properties in India". Lab members presented their research topics to him and received candid advice. </p>
+         </td>
+      </tr>
+      <tr>
          <td width="15%"><p align="justify"><dt>2024 Mar. 11</dt></p></td>
          <td width="85%" class="papertext">
             <img src="../images/news/2024/240312-1.jpg"  width="500" alt="Conference photos">
